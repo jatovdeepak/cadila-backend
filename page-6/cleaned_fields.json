@@ -1,0 +1,106 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "PRODUCT NAME": "ACILOC 300",
+    "COMPANY NAME": "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING",
+    "MFG DATE": "JUL 2021",
+    "BATCH NO": "LO21076",
+    "EXP DATE": "DEC 2023",
+    "MASTER PACKAGING DOCKET DETAILS": [],
+    "BATCH PACKING RECORD DETAILS": [],
+    "BATCH PACKING DETAILS": [],
+    "BATCH DETAILS": [],
+    "PACKAGING MATERIALS": [],
+    "BRIEF PACKAGING INSTRUCTION": [
+      {
+        "COLUMN1": "1.",
+        "COLUMN2": "Pack 20 tablets in strip"
+      },
+      {
+        "COLUMN1": "Remarks:",
+        "COLUMN2": "Strip Size: 112 x 116.5 mm NEW LAYOUT NO .: RE - 7620"
+      }
+    ],
+    "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING": [
+      {
+        "SR NO": "1.",
+        "MACHINE": "STRIP MACHINE WITH CHANGE PARTS",
+        "ID NO": "DPC273",
+        "CLEANING & OPERATING SOP NO": "DCP039"
+      },
+      {
+        "SR NO": "2.",
+        "MACHINE": "DEFOILER MACHINE",
+        "ID NO": "NA",
+        "CLEANING & OPERATING SOP NO": "NA"
+      },
+      {
+        "SR NO": "3.",
+        "MACHINE": "LEAK TEST APPARATUS",
+        "ID NO": "Dre203 DDC204 OPCRIA",
+        "CLEANING & OPERATING SOP NO": "DCP035"
+      },
+      {
+        "SR NO": "4.",
+        "MACHINE": "EPD/COLLATOR",
+        "ID NO": "DPC273",
+        "CLEANING & OPERATING SOP NO": "DC1028"
+      }
+    ],
+    "STEREO ISSUENCE": [
+      {
+        "Date of Issue": "26107121",
+        "Issued to(M/C Operator)": "BGP",
+        "Qty": "27",
+        "Packing Supervisor(Sign/Date)": "26107121"
+      },
+      {
+        "Date of Issue": "Nb",
+        "Issued to(M/C Operator)": "N/A",
+        "Qty": "NW",
+        "Packing Supervisor(Sign/Date)": "NW"
+      }
+    ],
+    "STEREO RETRIEVAL": [
+      {
+        "Qty": "NW",
+        "Date of Retrieval": "",
+        "Retrieval By(M/C Operator)": "",
+        "Packing Supervisor(Sign/Date)": ""
+      },
+      {
+        "Retrieval By(M/C Operator)": "@28/07/21",
+        "Date of Retrieval": "",
+        "Qty": "",
+        "Packing Supervisor(Sign/Date)": ""
+      }
+    ],
+    "STEREO DISPOSAL": [
+      {
+        "Date": "8/07/21",
+        "Qty": "27",
+        "Disposal by": "CJP",
+        "Checked by Packing Supervisor(Sign/Date)": "28/07/21",
+        "Verified by QA Supervisor(Sign/Date)": "(Recently"
+      },
+      {
+        "Checked by Packing Supervisor(Sign/Date)": "1/2",
+        "Verified by QA Supervisor(Sign/Date)": "@28/07/21",
+        "Date": "",
+        "Qty": "",
+        "Disposal by": ""
+      }
+    ],
+    "LINE CLEARANCE DETAILS FOR STRIP MACHINE": [],
+    "OVER CODING DETAILS (Verified with P.O./MMD-I/CMOF)": [],
+    "DETAILS OF BULK ISSUENCE OF TABLETS": [],
+    "SUPERSEDES NO": "",
+    "GENERIC NAME": "",
+    "MARKETING DIVISION": "",
+    "MFG LICENSE NO": "",
+    "REF MMD II": "",
+    "DOCUMENT": "",
+    "Packing For DOMESTIC": "",
+    "BATCH SIZE": ""
+  }
+}

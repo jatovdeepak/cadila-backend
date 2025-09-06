@@ -1,0 +1,68 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "PRODUCT NAME": "ACILOC 300",
+    "COMPANY NAME": "CADILA PHARMACEUTICALS LIMITED",
+    "MFG DATE": "JUL 2021",
+    "BATCH NO": "LO21076",
+    "EXP DATE": "DEC 2023",
+    "DOCUMENT": "CADILA PHARMACEUTICALS LTD. DHOLKA BATCH PACKING RECORD",
+    "MASTER PACKAGING DOCKET DETAILS": [],
+    "BATCH PACKING RECORD DETAILS": [],
+    "BATCH PACKING DETAILS": [],
+    "BATCH DETAILS": [],
+    "PACKAGING MATERIALS": [],
+    "BRIEF PACKAGING INSTRUCTION": [],
+    "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING": [],
+    "STEREO ISSUENCE": [],
+    "STEREO RETRIEVAL": [],
+    "STEREO DISPOSAL": [],
+    "LINE CLEARANCE DETAILS FOR STRIP MACHINE": [
+      {
+        "Date": "26/07/21",
+        "Shift/Time": "F 09:10",
+        "Machine ID": "DIC273",
+        "Previous Product": "Envus 5 mg",
+        "Batch No": "B42311018",
+        "Cleaning done by": "BGP",
+        "Checked By(Packing)": "R261.7121",
+        "Verified By(QA)": "26/01/2"
+      },
+      {
+        "Previous Product": "NO",
+        "Verified By(QA)": "@28/07/2",
+        "Date": "",
+        "Shift/Time": "",
+        "Machine ID": "",
+        "Batch No": "",
+        "Cleaning done by": "",
+        "Checked By(Packing)": ""
+      }
+    ],
+    "OVER CODING DETAILS (Verified with P.O./MMD-I/CMOF)": [],
+    "DETAILS OF BULK ISSUENCE OF TABLETS": [],
+    "DEFOILING DETAILS": [],
+    "SHIFT WISE STRIPING IN PROCESS CHECKING RECORD": [],
+    "CHECK LIST FOR STRIP MACHINE & CUBICLE": [
+      {
+        "Date & Shift": "20/07/21 Z",
+        "Machine ID": "DIC273",
+        "CHECKED BY(Packing)": "826107121",
+        "VERIFIED BY(QA)": "30/07/4"
+      }
+    ],
+    "STRIP PACK MACHINE": [],
+    "CHANGE PARTS DETAILS AND LAYOUT NUMBER": [],
+    "VERIFICATION OF PRINTED PACKAGING MATERIAL": [],
+    "LIST OF ABBREVIATIONS": [],
+    "SPECIFIC REQUIREMENT": [],
+    "SUPERSEDES NO": "",
+    "GENERIC NAME": "",
+    "MARKETING DIVISION": "",
+    "MFG LICENSE NO": "",
+    "REF MMD II": "",
+    "Packing For DOMESTIC": "",
+    "BATCH SIZE": "",
+    "OVER CODING DETAILS Expiry Date": ""
+  }
+}

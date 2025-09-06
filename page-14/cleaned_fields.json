@@ -1,0 +1,55 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "PRODUCT NAME": "ACILOC 300",
+    "COMPANY NAME": "CADILA PHARMACEUTICALS LIMITÉO",
+    "MFG DATE": "JUL 2021",
+    "BATCH NO": "LO21076",
+    "EXP DATE": "DEC 2023",
+    "DOCUMENT": "CADILA PHARMACEUTICALS LTD. DHOLKA BATCH PACKING RECORD",
+    "MASTER PACKAGING DOCKET DETAILS": [],
+    "BATCH PACKING RECORD DETAILS": [],
+    "BATCH PACKING DETAILS": [],
+    "BATCH DETAILS": [],
+    "PACKAGING MATERIALS": [],
+    "BRIEF PACKAGING INSTRUCTION": [],
+    "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING": [],
+    "STEREO ISSUENCE": [],
+    "STEREO RETRIEVAL": [],
+    "STEREO DISPOSAL": [],
+    "LINE CLEARANCE DETAILS FOR STRIP MACHINE": [],
+    "OVER CODING DETAILS (Verified with P.O./MMD-I/CMOF)": [],
+    "DETAILS OF BULK ISSUENCE OF TABLETS": [],
+    "DEFOILING DETAILS": [
+      {
+        "Defoiling M/C ID.: DPC": "RST 304",
+        "Quantity": "1104 tab",
+        "Done By": "M. R. Bland",
+        "Checked By": "Prenuty",
+        "Verified By": "28/07/2"
+      }
+    ],
+    "SHIFT WISE STRIPING IN PROCESS CHECKING RECORD": [
+      {
+        "Date/Shift": "7810714 1I",
+        "Machine ID": "DPC 273",
+        "Name of Operator": "BG Patal",
+        "Name of Supervisor": "Harshay"
+      }
+    ],
+    "CHECK LIST FOR STRIP MACHINE & CUBICLE": [],
+    "STRIP PACK MACHINE": [],
+    "CHANGE PARTS DETAILS AND LAYOUT NUMBER": [],
+    "VERIFICATION OF PRINTED PACKAGING MATERIAL": [],
+    "LIST OF ABBREVIATIONS": [],
+    "SPECIFIC REQUIREMENT": [],
+    "SUPERSEDES NO": "",
+    "GENERIC NAME": "",
+    "MARKETING DIVISION": "",
+    "MFG LICENSE NO": "",
+    "REF MMD II": "",
+    "Packing For DOMESTIC": "",
+    "BATCH SIZE": "",
+    "OVER CODING DETAILS Expiry Date": ""
+  }
+}

@@ -1,0 +1,11069 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2025-08-07T22:03:21Z",
+	"lastUpdatedDateTime": "2025-08-07T22:03:21Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "cadila3",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "CADILA PHARMACEUTICALS LIMITED\nCADILA PHARMACEUTICALS LTD. DHOLKA BATCH PACKING RECORD\nMASTER COPY\nPage 6 of 53\nPRODUCT NAME: ACILOC 300\nBATCH NO .: LO21076\nBPR No .: CP/DDDT303/MF/01/00/D\nMFG. DATE: JUL 2021\nEXP. DATE:\nDEC 2023\n5. BRIEF PACKAGING INSTRUCTIONS\n1. Pack 20 tablets in strip\nRemarks: Strip Size: 112 x 116.5 mm NEW LAYOUT NO .: RE - 7620\n5.1 LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING\nSR. NO.\nMACHINE\nID. NO.\nCLEANING & OPERATING SOP NO.\n1.\nSTRIP MACHINE WITH CHANGE PARTS\nDPC273\nDCP039\n2.\nDEFOILER MACHINE\nNA\nNA\n3.\nLEAK TEST APPARATUS\nDre203 DDC204 OPCRIA\nDCP035\n4. :selected: EPD/COLLATOR\nDPC273\nDC1028\n5.2 STEREO RECONCILIATION (AS PER RESPECTIVE SOP)\nSTEREO ISSUANCE & RETRIEVAL\nDate of Issue\nIssued to (M/C Operator)\nQty.\nPacking Supervisor (Sign./Date)\nDate of Retrieval\nQty.\nRetrieval By (M/C Operator)\nPacking Supervisor (Sign./Date)\n26107121\nBGP\n27\n26107121\nNb\nN/A\nNW\nNW\n@28/07/21\nNW\nSTEREO DISPOSAL\nDate\nQty.\nDisposal by\nChecked by Packing Supervisor (Sign./Date)\nVerified by QA Supervisor (Sign./Date)\n8/07/21\n27\nCJP\n@ 28/07/21\n(Recently\n1/2\n@28/07/21\n2\nPrepared By\nA\n23/02/1\nApproved By\nphs 02/03/4\nSign & Date (TTD)\nSign & Date (QA)\nFORM NO. : FTT001-03/04\nCERTIFIED COPY @10/07/4",
+		"pages": [
+			{
+				"pageNumber": 4,
+				"angle": -0.2892000079154968,
+				"width": 8.2639,
+				"height": 11.6806,
+				"unit": "inch",
+				"words": [
+					{
+						"content": "CADILA",
+						"polygon": [
+							1.0567,
+							0.5878,
+							1.6722,
+							0.5852,
+							1.6722,
+							0.7811,
+							1.0577,
+							0.7868
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 0,
+							"length": 6
+						}
+					},
+					{
+						"content": "PHARMACEUTICALS",
+						"polygon": [
+							1.0582,
+							0.7845,
+							1.6836,
+							0.7792,
+							1.6836,
+							0.8689,
+							1.0583,
+							0.872
+						],
+						"confidence": 0.464,
+						"span": {
+							"offset": 7,
+							"length": 15
+						}
+					},
+					{
+						"content": "LIMITED",
+						"polygon": [
+							1.2437,
+							0.8639,
+							1.4953,
+							0.857,
+							1.4953,
+							0.9095,
+							1.2439,
+							0.9136
+						],
+						"confidence": 0.59,
+						"span": {
+							"offset": 23,
+							"length": 7
+						}
+					},
+					{
+						"content": "CADILA",
+						"polygon": [
+							2.8139,
+							0.5115,
+							3.2928,
+							0.5068,
+							3.293,
+							0.6331,
+							2.8142,
+							0.6377
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 31,
+							"length": 6
+						}
+					},
+					{
+						"content": "PHARMACEUTICALS",
+						"polygon": [
+							3.3242,
+							0.5066,
+							4.5725,
+							0.4919,
+							4.5727,
+							0.6205,
+							3.3243,
+							0.6328
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 38,
+							"length": 15
+						}
+					},
+					{
+						"content": "LTD.",
+						"polygon": [
+							4.6123,
+							0.4913,
+							4.8799,
+							0.4879,
+							4.88,
+							0.6167,
+							4.6124,
+							0.6203
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 54,
+							"length": 4
+						}
+					},
+					{
+						"content": "DHOLKA",
+						"polygon": [
+							4.9155,
+							0.4875,
+							5.4617,
+							0.4828,
+							5.4617,
+							0.612,
+							4.9156,
+							0.6164
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 59,
+							"length": 6
+						}
+					},
+					{
+						"content": "BATCH",
+						"polygon": [
+							3.2944,
+							0.6833,
+							3.7345,
+							0.6787,
+							3.7345,
+							0.8016,
+							3.2946,
+							0.8042
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 66,
+							"length": 5
+						}
+					},
+					{
+						"content": "PACKING",
+						"polygon": [
+							3.7668,
+							0.6783,
+							4.3361,
+							0.6721,
+							4.336,
+							0.7961,
+							3.7668,
+							0.8012
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 72,
+							"length": 7
+						}
+					},
+					{
+						"content": "RECORD",
+						"polygon": [
+							4.3684,
+							0.6718,
+							4.8967,
+							0.6689,
+							4.8967,
+							0.7908,
+							4.3683,
+							0.7958
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 80,
+							"length": 6
+						}
+					},
+					{
+						"content": "MASTER",
+						"polygon": [
+							5.6143,
+							0.417,
+							6.7441,
+							0.4149,
+							6.743,
+							0.667,
+							5.6124,
+							0.6673
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 87,
+							"length": 6
+						}
+					},
+					{
+						"content": "COPY",
+						"polygon": [
+							6.8183,
+							0.4157,
+							7.5676,
+							0.4137,
+							7.5676,
+							0.6673,
+							6.8171,
+							0.666
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 94,
+							"length": 4
+						}
+					},
+					{
+						"content": "Page",
+						"polygon": [
+							6.7037,
+							0.6556,
+							6.9632,
+							0.6536,
+							6.963,
+							0.774,
+							6.7038,
+							0.7757
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 99,
+							"length": 4
+						}
+					},
+					{
+						"content": "6",
+						"polygon": [
+							6.9927,
+							0.6532,
+							7.0536,
+							0.6533,
+							7.0535,
+							0.7723,
+							6.9925,
+							0.7732
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 104,
+							"length": 1
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							7.089,
+							0.6532,
+							7.1912,
+							0.6515,
+							7.1912,
+							0.7696,
+							7.0888,
+							0.7718
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 106,
+							"length": 2
+						}
+					},
+					{
+						"content": "53",
+						"polygon": [
+							7.2148,
+							0.6512,
+							7.3563,
+							0.6486,
+							7.3561,
+							0.767,
+							7.2148,
+							0.7692
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 109,
+							"length": 2
+						}
+					},
+					{
+						"content": "PRODUCT",
+						"polygon": [
+							0.7605,
+							1.1393,
+							1.4375,
+							1.1299,
+							1.4377,
+							1.2589,
+							0.761,
+							1.2661
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 112,
+							"length": 7
+						}
+					},
+					{
+						"content": "NAME:",
+						"polygon": [
+							1.4692,
+							1.1297,
+							1.9121,
+							1.1248,
+							1.9123,
+							1.2544,
+							1.4694,
+							1.2585
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 120,
+							"length": 5
+						}
+					},
+					{
+						"content": "ACILOC",
+						"polygon": [
+							1.9564,
+							1.1244,
+							2.4942,
+							1.1194,
+							2.4942,
+							1.2486,
+							1.9565,
+							1.2538
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 126,
+							"length": 6
+						}
+					},
+					{
+						"content": "300",
+						"polygon": [
+							2.5217,
+							1.1191,
+							2.7337,
+							1.1161,
+							2.7337,
+							1.2447,
+							2.5216,
+							1.2483
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 133,
+							"length": 3
+						}
+					},
+					{
+						"content": "BATCH",
+						"polygon": [
+							5.3484,
+							1.0847,
+							5.8309,
+							1.0818,
+							5.8312,
+							1.223,
+							5.3488,
+							1.2254
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 137,
+							"length": 5
+						}
+					},
+					{
+						"content": "NO",
+						"polygon": [
+							5.8693,
+							1.0811,
+							6.0302,
+							1.0786,
+							6.0305,
+							1.2233,
+							5.8696,
+							1.2231
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 143,
+							"length": 2
+						}
+					},
+					{
+						"content": ".:",
+						"polygon": [
+							6.059,
+							1.0782,
+							6.1454,
+							1.076,
+							6.1457,
+							1.2244,
+							6.0593,
+							1.2234
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 146,
+							"length": 2
+						}
+					},
+					{
+						"content": "LO21076",
+						"polygon": [
+							6.3662,
+							1.0747,
+							7.0254,
+							1.0708,
+							7.0254,
+							1.2242,
+							6.3665,
+							1.2236
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 149,
+							"length": 7
+						}
+					},
+					{
+						"content": "BPR",
+						"polygon": [
+							0.7657,
+							1.3792,
+							1.0488,
+							1.3761,
+							1.0493,
+							1.5072,
+							0.7667,
+							1.5097
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 157,
+							"length": 3
+						}
+					},
+					{
+						"content": "No",
+						"polygon": [
+							1.0815,
+							1.3756,
+							1.2013,
+							1.3743,
+							1.2017,
+							1.5054,
+							1.0819,
+							1.5069
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 161,
+							"length": 2
+						}
+					},
+					{
+						"content": ".:",
+						"polygon": [
+							1.2274,
+							1.3739,
+							1.3123,
+							1.3724,
+							1.3127,
+							1.5043,
+							1.2278,
+							1.5051
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 164,
+							"length": 2
+						}
+					},
+					{
+						"content": "CP/DDDT303/MF/01/00/D",
+						"polygon": [
+							1.3581,
+							1.3715,
+							2.8764,
+							1.3562,
+							2.8764,
+							1.489,
+							1.3584,
+							1.5038
+						],
+						"confidence": 0.941,
+						"span": {
+							"offset": 167,
+							"length": 21
+						}
+					},
+					{
+						"content": "MFG.",
+						"polygon": [
+							3.1739,
+							1.3493,
+							3.5265,
+							1.3464,
+							3.5265,
+							1.486,
+							3.1741,
+							1.4862
+						],
+						"confidence": 0.934,
+						"span": {
+							"offset": 189,
+							"length": 4
+						}
+					},
+					{
+						"content": "DATE:",
+						"polygon": [
+							3.5682,
+							1.3463,
+							3.9741,
+							1.3426,
+							3.974,
+							1.4843,
+							3.5682,
+							1.4857
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 194,
+							"length": 5
+						}
+					},
+					{
+						"content": "JUL",
+						"polygon": [
+							4.1156,
+							1.342,
+							4.3894,
+							1.3399,
+							4.3894,
+							1.4842,
+							4.1158,
+							1.4858
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 200,
+							"length": 3
+						}
+					},
+					{
+						"content": "2021",
+						"polygon": [
+							4.4381,
+							1.3398,
+							4.7883,
+							1.3382,
+							4.7883,
+							1.4823,
+							4.4381,
+							1.4839
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 204,
+							"length": 4
+						}
+					},
+					{
+						"content": "EXP.",
+						"polygon": [
+							5.3514,
+							1.3287,
+							5.6546,
+							1.3271,
+							5.6547,
+							1.4524,
+							5.3518,
+							1.4535
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 209,
+							"length": 4
+						}
+					},
+					{
+						"content": "DATE:",
+						"polygon": [
+							5.6938,
+							1.327,
+							6.1294,
+							1.3246,
+							6.1294,
+							1.4513,
+							5.6939,
+							1.4518
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 214,
+							"length": 5
+						}
+					},
+					{
+						"content": "DEC",
+						"polygon": [
+							6.3378,
+							1.3148,
+							6.6824,
+							1.3151,
+							6.6824,
+							1.458,
+							6.3378,
+							1.4597
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 220,
+							"length": 3
+						}
+					},
+					{
+						"content": "2023",
+						"polygon": [
+							6.732,
+							1.315,
+							7.0882,
+							1.314,
+							7.0882,
+							1.4583,
+							6.732,
+							1.4576
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 224,
+							"length": 4
+						}
+					},
+					{
+						"content": "5.",
+						"polygon": [
+							2.7087,
+							1.6676,
+							2.8339,
+							1.667,
+							2.8338,
+							1.8177,
+							2.7085,
+							1.8181
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 229,
+							"length": 2
+						}
+					},
+					{
+						"content": "BRIEF",
+						"polygon": [
+							2.8789,
+							1.6668,
+							3.3723,
+							1.6623,
+							3.3721,
+							1.8132,
+							2.8789,
+							1.8176
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 232,
+							"length": 5
+						}
+					},
+					{
+						"content": "PACKAGING",
+						"polygon": [
+							3.4098,
+							1.662,
+							4.4114,
+							1.6492,
+							4.4116,
+							1.8039,
+							3.4097,
+							1.8129
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 238,
+							"length": 9
+						}
+					},
+					{
+						"content": "INSTRUCTIONS",
+						"polygon": [
+							4.454,
+							1.6487,
+							5.6957,
+							1.6362,
+							5.6957,
+							1.7894,
+							4.4542,
+							1.8033
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 248,
+							"length": 12
+						}
+					},
+					{
+						"content": "1.",
+						"polygon": [
+							0.7077,
+							1.8846,
+							0.8168,
+							1.8844,
+							0.8171,
+							2.0361,
+							0.7079,
+							2.0353
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 261,
+							"length": 2
+						}
+					},
+					{
+						"content": "Pack",
+						"polygon": [
+							0.9488,
+							1.8842,
+							1.238,
+							1.8818,
+							1.238,
+							2.0345,
+							0.9489,
+							2.0361
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 264,
+							"length": 4
+						}
+					},
+					{
+						"content": "20",
+						"polygon": [
+							1.271,
+							1.8817,
+							1.4131,
+							1.8798,
+							1.4132,
+							2.035,
+							1.271,
+							2.0343
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 269,
+							"length": 2
+						}
+					},
+					{
+						"content": "tablets",
+						"polygon": [
+							1.4486,
+							1.8799,
+							1.8241,
+							1.8774,
+							1.824,
+							2.0338,
+							1.4487,
+							2.035
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 272,
+							"length": 7
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							1.8546,
+							1.8772,
+							1.9865,
+							1.8765,
+							1.986,
+							2.0338,
+							1.8544,
+							2.0337
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 280,
+							"length": 2
+						}
+					},
+					{
+						"content": "strip",
+						"polygon": [
+							2.0322,
+							1.8761,
+							2.3,
+							1.8746,
+							2.3,
+							2.0316,
+							2.0315,
+							2.0339
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 283,
+							"length": 5
+						}
+					},
+					{
+						"content": "Remarks:",
+						"polygon": [
+							0.699,
+							2.3903,
+							1.3254,
+							2.3824,
+							1.3254,
+							2.5436,
+							0.6991,
+							2.5467
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 289,
+							"length": 8
+						}
+					},
+					{
+						"content": "Strip",
+						"polygon": [
+							1.4119,
+							2.3811,
+							1.6845,
+							2.3773,
+							1.6845,
+							2.5389,
+							1.4119,
+							2.5424
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 298,
+							"length": 5
+						}
+					},
+					{
+						"content": "Size:",
+						"polygon": [
+							1.7264,
+							2.3768,
+							2.0095,
+							2.3731,
+							2.0096,
+							2.5357,
+							1.7265,
+							2.5386
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 304,
+							"length": 5
+						}
+					},
+					{
+						"content": "112",
+						"polygon": [
+							2.0698,
+							2.3721,
+							2.2769,
+							2.369,
+							2.2768,
+							2.5312,
+							2.0699,
+							2.5346
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 310,
+							"length": 3
+						}
+					},
+					{
+						"content": "x",
+						"polygon": [
+							2.3136,
+							2.3687,
+							2.3896,
+							2.3681,
+							2.3896,
+							2.5301,
+							2.3136,
+							2.5309
+						],
+						"confidence": 0.639,
+						"span": {
+							"offset": 314,
+							"length": 1
+						}
+					},
+					{
+						"content": "116.5",
+						"polygon": [
+							2.4394,
+							2.3677,
+							2.746,
+							2.3646,
+							2.7462,
+							2.5257,
+							2.4394,
+							2.5297
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 316,
+							"length": 5
+						}
+					},
+					{
+						"content": "mm",
+						"polygon": [
+							2.7958,
+							2.364,
+							3.0186,
+							2.3622,
+							3.0188,
+							2.5222,
+							2.796,
+							2.525
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 322,
+							"length": 2
+						}
+					},
+					{
+						"content": "NEW",
+						"polygon": [
+							3.0894,
+							2.3618,
+							3.4354,
+							2.3577,
+							3.4356,
+							2.517,
+							3.0896,
+							2.5214
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 325,
+							"length": 3
+						}
+					},
+					{
+						"content": "LAYOUT",
+						"polygon": [
+							3.4669,
+							2.3573,
+							4.0644,
+							2.3488,
+							4.0646,
+							2.5089,
+							3.467,
+							2.5166
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 329,
+							"length": 6
+						}
+					},
+					{
+						"content": "NO",
+						"polygon": [
+							4.0959,
+							2.3483,
+							4.2846,
+							2.3464,
+							4.2848,
+							2.5063,
+							4.0961,
+							2.5084
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 336,
+							"length": 2
+						}
+					},
+					{
+						"content": ".:",
+						"polygon": [
+							4.3161,
+							2.3461,
+							4.3999,
+							2.3453,
+							4.4002,
+							2.505,
+							4.3163,
+							2.5059
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 339,
+							"length": 2
+						}
+					},
+					{
+						"content": "RE",
+						"polygon": [
+							4.4497,
+							2.3449,
+							4.6175,
+							2.3431,
+							4.6176,
+							2.5018,
+							4.45,
+							2.5044
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 342,
+							"length": 2
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							4.6516,
+							2.3427,
+							4.7197,
+							2.342,
+							4.7197,
+							2.5003,
+							4.6516,
+							2.5013
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 345,
+							"length": 1
+						}
+					},
+					{
+						"content": "7620",
+						"polygon": [
+							4.7564,
+							2.3417,
+							5.0679,
+							2.3401,
+							5.0679,
+							2.495,
+							4.7564,
+							2.4996
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 347,
+							"length": 4
+						}
+					},
+					{
+						"content": "5.1",
+						"polygon": [
+							1.5902,
+							2.8946,
+							1.7922,
+							2.8922,
+							1.7924,
+							3.0605,
+							1.5904,
+							3.0615
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 352,
+							"length": 3
+						}
+					},
+					{
+						"content": "LIST",
+						"polygon": [
+							1.8427,
+							2.8916,
+							2.2132,
+							2.8872,
+							2.2132,
+							3.0582,
+							1.8429,
+							3.0602
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 356,
+							"length": 4
+						}
+					},
+					{
+						"content": "OF",
+						"polygon": [
+							2.2581,
+							2.8867,
+							2.477,
+							2.8837,
+							2.477,
+							3.0558,
+							2.2581,
+							3.058
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 361,
+							"length": 2
+						}
+					},
+					{
+						"content": "EQUIPMENTS",
+						"polygon": [
+							2.5163,
+							2.8832,
+							3.5967,
+							2.8695,
+							3.597,
+							3.0434,
+							2.5163,
+							3.0554
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 364,
+							"length": 10
+						}
+					},
+					{
+						"content": "WITH",
+						"polygon": [
+							3.6388,
+							2.869,
+							4.099,
+							2.8637,
+							4.0998,
+							3.0372,
+							3.6392,
+							3.0427
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 375,
+							"length": 4
+						}
+					},
+					{
+						"content": "SOP",
+						"polygon": [
+							4.1383,
+							2.8632,
+							4.4498,
+							2.8605,
+							4.4508,
+							3.0338,
+							4.1392,
+							3.0368
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 380,
+							"length": 3
+						}
+					},
+					{
+						"content": "OF",
+						"polygon": [
+							4.5004,
+							2.8601,
+							4.7165,
+							2.858,
+							4.7172,
+							3.0306,
+							4.5013,
+							3.0333
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 384,
+							"length": 2
+						}
+					},
+					{
+						"content": "CLEANING",
+						"polygon": [
+							4.7557,
+							2.8576,
+							5.6173,
+							2.8489,
+							5.6183,
+							3.0194,
+							4.7564,
+							3.03
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 387,
+							"length": 8
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							5.6622,
+							2.8485,
+							5.7913,
+							2.847,
+							5.7922,
+							3.0171,
+							5.6632,
+							3.0188
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 396,
+							"length": 1
+						}
+					},
+					{
+						"content": "OPERATING",
+						"polygon": [
+							5.839,
+							2.8464,
+							6.8371,
+							2.8385,
+							6.8371,
+							3.0044,
+							5.8398,
+							3.0165
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 398,
+							"length": 9
+						}
+					},
+					{
+						"content": "SR.",
+						"polygon": [
+							0.8366,
+							3.4102,
+							1.0781,
+							3.4096,
+							1.0782,
+							3.5408,
+							0.8373,
+							3.5417
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 408,
+							"length": 3
+						}
+					},
+					{
+						"content": "NO.",
+						"polygon": [
+							0.8179,
+							3.5741,
+							1.0958,
+							3.5734,
+							1.0958,
+							3.7108,
+							0.8186,
+							3.7104
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 412,
+							"length": 3
+						}
+					},
+					{
+						"content": "MACHINE",
+						"polygon": [
+							2.3225,
+							3.4664,
+							3.0818,
+							3.4623,
+							3.0818,
+							3.6028,
+							2.3231,
+							3.6045
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 416,
+							"length": 7
+						}
+					},
+					{
+						"content": "ID.",
+						"polygon": [
+							4.5708,
+							3.4458,
+							4.7838,
+							3.4454,
+							4.7841,
+							3.5852,
+							4.5714,
+							3.5862
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 424,
+							"length": 3
+						}
+					},
+					{
+						"content": "NO.",
+						"polygon": [
+							4.8227,
+							3.4454,
+							5.0964,
+							3.4448,
+							5.0964,
+							3.5849,
+							4.8229,
+							3.5854
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 428,
+							"length": 3
+						}
+					},
+					{
+						"content": "CLEANING",
+						"polygon": [
+							5.5731,
+							3.3107,
+							6.3759,
+							3.3045,
+							6.3762,
+							3.4529,
+							5.5743,
+							3.4593
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 432,
+							"length": 8
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							6.4148,
+							3.3041,
+							6.5389,
+							3.3036,
+							6.5393,
+							3.4525,
+							6.4152,
+							3.4527
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 441,
+							"length": 1
+						}
+					},
+					{
+						"content": "OPERATING",
+						"polygon": [
+							6.5827,
+							3.3031,
+							7.4934,
+							3.2975,
+							7.4934,
+							3.4454,
+							6.5831,
+							3.452
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 443,
+							"length": 9
+						}
+					},
+					{
+						"content": "SOP",
+						"polygon": [
+							6.2271,
+							3.5589,
+							6.5232,
+							3.5592,
+							6.5237,
+							3.6984,
+							6.2276,
+							3.6994
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 453,
+							"length": 3
+						}
+					},
+					{
+						"content": "NO.",
+						"polygon": [
+							6.5645,
+							3.5594,
+							6.8371,
+							3.5574,
+							6.8371,
+							3.6994,
+							6.565,
+							3.6989
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 457,
+							"length": 3
+						}
+					},
+					{
+						"content": "1.",
+						"polygon": [
+							0.912,
+							3.9497,
+							1.0216,
+							3.9496,
+							1.0216,
+							4.0777,
+							0.9122,
+							4.0772
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 461,
+							"length": 2
+						}
+					},
+					{
+						"content": "STRIP",
+						"polygon": [
+							1.2647,
+							3.9267,
+							1.6653,
+							3.9229,
+							1.6657,
+							4.0798,
+							1.2651,
+							4.0819
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 464,
+							"length": 5
+						}
+					},
+					{
+						"content": "MACHINE",
+						"polygon": [
+							1.7095,
+							3.9221,
+							2.4015,
+							3.9138,
+							2.4018,
+							4.0723,
+							1.7099,
+							4.0791
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 470,
+							"length": 7
+						}
+					},
+					{
+						"content": "WITH",
+						"polygon": [
+							2.4353,
+							3.9135,
+							2.8177,
+							3.9102,
+							2.8179,
+							4.0694,
+							2.4357,
+							4.0721
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 478,
+							"length": 4
+						}
+					},
+					{
+						"content": "CHANGE",
+						"polygon": [
+							2.8593,
+							3.9096,
+							3.4707,
+							3.9052,
+							3.4706,
+							4.0649,
+							2.8595,
+							4.0689
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 483,
+							"length": 6
+						}
+					},
+					{
+						"content": "PARTS",
+						"polygon": [
+							3.5071,
+							3.9049,
+							3.9836,
+							3.9002,
+							3.9836,
+							4.0606,
+							3.507,
+							4.0649
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 490,
+							"length": 5
+						}
+					},
+					{
+						"content": "DPC273",
+						"polygon": [
+							4.3065,
+							3.8858,
+							5.2163,
+							3.8838,
+							5.2163,
+							4.0556,
+							4.307,
+							4.0605
+						],
+						"confidence": 0.916,
+						"span": {
+							"offset": 496,
+							"length": 6
+						}
+					},
+					{
+						"content": "DCP039",
+						"polygon": [
+							5.8234,
+							3.8723,
+							6.683,
+							3.8706,
+							6.683,
+							4.0462,
+							5.8238,
+							4.0478
+						],
+						"confidence": 0.971,
+						"span": {
+							"offset": 503,
+							"length": 6
+						}
+					},
+					{
+						"content": "2.",
+						"polygon": [
+							0.8988,
+							4.2916,
+							1.0216,
+							4.2903,
+							1.0216,
+							4.4155,
+							0.8993,
+							4.4168
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 510,
+							"length": 2
+						}
+					},
+					{
+						"content": "DEFOILER",
+						"polygon": [
+							1.263,
+							4.2728,
+							1.9903,
+							4.2661,
+							1.9905,
+							4.4122,
+							1.2639,
+							4.4193
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 513,
+							"length": 8
+						}
+					},
+					{
+						"content": "MACHINE",
+						"polygon": [
+							2.0214,
+							4.266,
+							2.728,
+							4.2603,
+							2.728,
+							4.4065,
+							2.0216,
+							4.4118
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 522,
+							"length": 7
+						}
+					},
+					{
+						"content": "NA",
+						"polygon": [
+							4.539,
+							4.265,
+							4.9252,
+							4.2604,
+							4.9252,
+							4.3913,
+							4.542,
+							4.3948
+						],
+						"confidence": 0.841,
+						"span": {
+							"offset": 530,
+							"length": 2
+						}
+					},
+					{
+						"content": "NA",
+						"polygon": [
+							5.9969,
+							4.2567,
+							6.3292,
+							4.257,
+							6.3292,
+							4.4002,
+							5.9975,
+							4.4009
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 533,
+							"length": 2
+						}
+					},
+					{
+						"content": "3.",
+						"polygon": [
+							0.9033,
+							4.6277,
+							1.0273,
+							4.6265,
+							1.0273,
+							4.7547,
+							0.9038,
+							4.7558
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 536,
+							"length": 2
+						}
+					},
+					{
+						"content": "LEAK",
+						"polygon": [
+							1.2668,
+							4.6106,
+							1.6709,
+							4.6071,
+							1.6715,
+							4.7521,
+							1.2676,
+							4.7551
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 539,
+							"length": 4
+						}
+					},
+					{
+						"content": "TEST",
+						"polygon": [
+							1.7022,
+							4.6069,
+							2.0654,
+							4.6028,
+							2.0659,
+							4.7495,
+							1.7027,
+							4.7521
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 544,
+							"length": 4
+						}
+					},
+					{
+						"content": "APPARATUS",
+						"polygon": [
+							2.0943,
+							4.6027,
+							2.9677,
+							4.5929,
+							2.9677,
+							4.7426,
+							2.0948,
+							4.7494
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 549,
+							"length": 9
+						}
+					},
+					{
+						"content": "Dre203",
+						"polygon": [
+							4.2264,
+							4.4803,
+							4.9081,
+							4.4773,
+							4.9081,
+							4.607,
+							4.2269,
+							4.6083
+						],
+						"confidence": 0.662,
+						"span": {
+							"offset": 559,
+							"length": 6
+						}
+					},
+					{
+						"content": "DDC204",
+						"polygon": [
+							4.2466,
+							4.6227,
+							4.891,
+							4.6164,
+							4.891,
+							4.7294,
+							4.2472,
+							4.7418
+						],
+						"confidence": 0.66,
+						"span": {
+							"offset": 566,
+							"length": 6
+						}
+					},
+					{
+						"content": "OPCRIA",
+						"polygon": [
+							4.6562,
+							4.7195,
+							5.3393,
+							4.7001,
+							5.3416,
+							4.8152,
+							4.659,
+							4.8336
+						],
+						"confidence": 0.623,
+						"span": {
+							"offset": 573,
+							"length": 6
+						}
+					},
+					{
+						"content": "DCP035",
+						"polygon": [
+							5.806,
+							4.5551,
+							6.7058,
+							4.5499,
+							6.7058,
+							4.7456,
+							5.8072,
+							4.7471
+						],
+						"confidence": 0.95,
+						"span": {
+							"offset": 580,
+							"length": 6
+						}
+					},
+					{
+						"content": "4.",
+						"polygon": [
+							0.908,
+							4.9692,
+							1.033,
+							4.9671,
+							1.033,
+							5.0938,
+							0.9081,
+							5.0949
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 587,
+							"length": 2
+						}
+					},
+					{
+						"content": "EPD/COLLATOR",
+						"polygon": [
+							1.265,
+							4.9456,
+							2.4027,
+							4.9417,
+							2.4027,
+							5.0882,
+							1.2686,
+							5.0971
+						],
+						"confidence": 0.652,
+						"span": {
+							"offset": 601,
+							"length": 12
+						}
+					},
+					{
+						"content": "DPC273",
+						"polygon": [
+							4.3489,
+							4.9287,
+							5.2448,
+							4.919,
+							5.2448,
+							5.0817,
+							4.3507,
+							5.0874
+						],
+						"confidence": 0.865,
+						"span": {
+							"offset": 614,
+							"length": 6
+						}
+					},
+					{
+						"content": "DC1028",
+						"polygon": [
+							5.9261,
+							4.8839,
+							6.8542,
+							4.8832,
+							6.8542,
+							5.0568,
+							5.9264,
+							5.0563
+						],
+						"confidence": 0.737,
+						"span": {
+							"offset": 621,
+							"length": 6
+						}
+					},
+					{
+						"content": "5.2",
+						"polygon": [
+							2.0364,
+							5.3082,
+							2.2435,
+							5.3072,
+							2.244,
+							5.469,
+							2.0371,
+							5.4689
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 628,
+							"length": 3
+						}
+					},
+					{
+						"content": "STEREO",
+						"polygon": [
+							2.2926,
+							5.307,
+							2.9386,
+							5.3009,
+							2.9387,
+							5.4666,
+							2.2929,
+							5.4691
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 632,
+							"length": 6
+						}
+					},
+					{
+						"content": "RECONCILIATION",
+						"polygon": [
+							2.9877,
+							5.3005,
+							4.4461,
+							5.2892,
+							4.4464,
+							5.457,
+							2.9878,
+							5.4664
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 639,
+							"length": 14
+						}
+					},
+					{
+						"content": "(AS",
+						"polygon": [
+							4.4788,
+							5.2891,
+							4.7132,
+							5.2873,
+							4.7135,
+							5.4557,
+							4.4791,
+							5.4567
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 654,
+							"length": 3
+						}
+					},
+					{
+						"content": "PER",
+						"polygon": [
+							4.7487,
+							5.2869,
+							5.0213,
+							5.2853,
+							5.0215,
+							5.4534,
+							4.7489,
+							5.4556
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 658,
+							"length": 3
+						}
+					},
+					{
+						"content": "RESPECTIVE",
+						"polygon": [
+							5.0676,
+							5.285,
+							6.0271,
+							5.2788,
+							6.0274,
+							5.4442,
+							5.0678,
+							5.4529
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 662,
+							"length": 10
+						}
+					},
+					{
+						"content": "SOP)",
+						"polygon": [
+							6.068,
+							5.2786,
+							6.4148,
+							5.2774,
+							6.4148,
+							5.4422,
+							6.0682,
+							5.444
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 673,
+							"length": 4
+						}
+					},
+					{
+						"content": "STEREO",
+						"polygon": [
+							2.9267,
+							5.6068,
+							3.5403,
+							5.601,
+							3.5406,
+							5.7494,
+							2.9272,
+							5.7542
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 678,
+							"length": 6
+						}
+					},
+					{
+						"content": "ISSUANCE",
+						"polygon": [
+							3.5795,
+							5.6007,
+							4.3031,
+							5.5935,
+							4.3033,
+							5.7439,
+							3.5797,
+							5.7491
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 685,
+							"length": 8
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							4.3642,
+							5.5928,
+							4.4889,
+							5.5921,
+							4.4891,
+							5.742,
+							4.3643,
+							5.7431
+						],
+						"confidence": 0.926,
+						"span": {
+							"offset": 694,
+							"length": 1
+						}
+					},
+					{
+						"content": "RETRIEVAL",
+						"polygon": [
+							4.528,
+							5.5919,
+							5.4275,
+							5.5861,
+							5.4275,
+							5.7345,
+							4.5282,
+							5.7416
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 696,
+							"length": 9
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							0.8424,
+							5.8428,
+							1.1699,
+							5.8415,
+							1.17,
+							5.9728,
+							0.8431,
+							5.9739
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 706,
+							"length": 4
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							0.9402,
+							6.0176,
+							1.0901,
+							6.0171,
+							1.0901,
+							6.141,
+							0.9408,
+							6.1426
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 711,
+							"length": 2
+						}
+					},
+					{
+						"content": "Issue",
+						"polygon": [
+							0.8358,
+							6.1823,
+							1.1806,
+							6.1824,
+							1.1814,
+							6.31,
+							0.8366,
+							6.3098
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 714,
+							"length": 5
+						}
+					},
+					{
+						"content": "Issued",
+						"polygon": [
+							1.4576,
+							5.8307,
+							1.8715,
+							5.8275,
+							1.8718,
+							5.9681,
+							1.4584,
+							5.9715
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 720,
+							"length": 6
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							1.9106,
+							5.8277,
+							2.0462,
+							5.827,
+							2.0462,
+							5.9662,
+							1.9108,
+							5.9678
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 727,
+							"length": 2
+						}
+					},
+					{
+						"content": "(M/C",
+						"polygon": [
+							1.5762,
+							6.0004,
+							1.9395,
+							5.9959,
+							1.9403,
+							6.14,
+							1.5785,
+							6.1468
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 730,
+							"length": 4
+						}
+					},
+					{
+						"content": "Operator)",
+						"polygon": [
+							1.4267,
+							6.1699,
+							2.0888,
+							6.1657,
+							2.0888,
+							6.3138,
+							1.4273,
+							6.3181
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 735,
+							"length": 9
+						}
+					},
+					{
+						"content": "Qty.",
+						"polygon": [
+							2.3906,
+							5.9959,
+							2.688,
+							5.9964,
+							2.688,
+							6.1483,
+							2.3904,
+							6.1483
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 745,
+							"length": 4
+						}
+					},
+					{
+						"content": "Packing",
+						"polygon": [
+							3.0393,
+							5.8102,
+							3.5841,
+							5.8144,
+							3.5841,
+							5.9683,
+							3.039,
+							5.9599
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 750,
+							"length": 7
+						}
+					},
+					{
+						"content": "Supervisor",
+						"polygon": [
+							2.955,
+							5.9849,
+							3.6754,
+							5.9823,
+							3.6754,
+							6.1319,
+							2.9548,
+							6.1365
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 758,
+							"length": 10
+						}
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							2.936,
+							6.148,
+							3.7039,
+							6.1409,
+							3.7039,
+							6.2989,
+							2.9367,
+							6.3023
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 769,
+							"length": 12
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							4.0267,
+							5.8884,
+							4.3458,
+							5.8852,
+							4.3459,
+							6.026,
+							4.027,
+							6.0285
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 782,
+							"length": 4
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							4.3825,
+							5.8851,
+							4.5371,
+							5.8851,
+							4.5371,
+							6.0252,
+							4.3828,
+							6.0252
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 787,
+							"length": 2
+						}
+					},
+					{
+						"content": "Retrieval",
+						"polygon": [
+							3.9679,
+							6.0578,
+							4.5885,
+							6.0555,
+							4.5885,
+							6.1926,
+							3.9687,
+							6.1979
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 790,
+							"length": 9
+						}
+					},
+					{
+						"content": "Qty.",
+						"polygon": [
+							4.9742,
+							5.9717,
+							5.262,
+							5.9722,
+							5.262,
+							6.1254,
+							4.9736,
+							6.1237
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 800,
+							"length": 4
+						}
+					},
+					{
+						"content": "Retrieval",
+						"polygon": [
+							5.6302,
+							5.8651,
+							6.2325,
+							5.8644,
+							6.2317,
+							6.0222,
+							5.6305,
+							6.0192
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 805,
+							"length": 9
+						}
+					},
+					{
+						"content": "By",
+						"polygon": [
+							6.271,
+							5.8647,
+							6.4604,
+							5.8651,
+							6.46,
+							6.0228,
+							6.2702,
+							6.0224
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 815,
+							"length": 2
+						}
+					},
+					{
+						"content": "(M/C",
+						"polygon": [
+							5.5413,
+							6.0369,
+							5.8869,
+							6.0367,
+							5.887,
+							6.2001,
+							5.5428,
+							6.2026
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 818,
+							"length": 4
+						}
+					},
+					{
+						"content": "Operator)",
+						"polygon": [
+							5.9271,
+							6.0366,
+							6.5803,
+							6.0354,
+							6.5803,
+							6.1972,
+							5.9272,
+							6.1996
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 823,
+							"length": 9
+						}
+					},
+					{
+						"content": "Packing",
+						"polygon": [
+							6.86,
+							5.7717,
+							7.3964,
+							5.7746,
+							7.3964,
+							5.9293,
+							6.8595,
+							5.9225
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 833,
+							"length": 7
+						}
+					},
+					{
+						"content": "Supervisor",
+						"polygon": [
+							6.7754,
+							5.9456,
+							7.4934,
+							5.9465,
+							7.4934,
+							6.0946,
+							6.7756,
+							6.0997
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 841,
+							"length": 10
+						}
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							6.7498,
+							6.1083,
+							7.522,
+							6.1039,
+							7.522,
+							6.2641,
+							6.7511,
+							6.2678
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 852,
+							"length": 12
+						}
+					},
+					{
+						"content": "26107121",
+						"polygon": [
+							0.6531,
+							6.6916,
+							1.2443,
+							6.3503,
+							1.3069,
+							6.4982,
+							0.7089,
+							6.8498
+						],
+						"confidence": 0.865,
+						"span": {
+							"offset": 865,
+							"length": 8
+						}
+					},
+					{
+						"content": "BGP",
+						"polygon": [
+							1.3792,
+							6.5148,
+							1.9747,
+							6.5013,
+							1.9747,
+							6.6867,
+							1.3836,
+							6.7001
+						],
+						"confidence": 0.943,
+						"span": {
+							"offset": 874,
+							"length": 3
+						}
+					},
+					{
+						"content": "27",
+						"polygon": [
+							2.3253,
+							6.514,
+							2.6253,
+							6.4947,
+							2.6253,
+							6.665,
+							2.3293,
+							6.6831
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 878,
+							"length": 2
+						}
+					},
+					{
+						"content": "26107121",
+						"polygon": [
+							2.9277,
+							6.6091,
+							3.7607,
+							6.5497,
+							3.7667,
+							6.7167,
+							2.9363,
+							6.7751
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 881,
+							"length": 8
+						}
+					},
+					{
+						"content": "Nb",
+						"polygon": [
+							0.873,
+							7.211,
+							1.2445,
+							7.1235,
+							1.2613,
+							7.2875,
+							0.8895,
+							7.3802
+						],
+						"confidence": 0.63,
+						"span": {
+							"offset": 890,
+							"length": 2
+						}
+					},
+					{
+						"content": "N/A",
+						"polygon": [
+							1.5561,
+							7.1394,
+							2.007,
+							7.0226,
+							2.026,
+							7.1672,
+							1.5825,
+							7.2935
+						],
+						"confidence": 0.75,
+						"span": {
+							"offset": 893,
+							"length": 3
+						}
+					},
+					{
+						"content": "NW",
+						"polygon": [
+							2.3026,
+							7.0974,
+							2.6652,
+							7.083,
+							2.6652,
+							7.237,
+							2.3058,
+							7.2546
+						],
+						"confidence": 0.578,
+						"span": {
+							"offset": 897,
+							"length": 2
+						}
+					},
+					{
+						"content": "NW",
+						"polygon": [
+							3.237,
+							7.0781,
+							3.6183,
+							7.0599,
+							3.6183,
+							7.2236,
+							3.2397,
+							7.2376
+						],
+						"confidence": 0.66,
+						"span": {
+							"offset": 900,
+							"length": 2
+						}
+					},
+					{
+						"content": "@28/07/21",
+						"polygon": [
+							5.1701,
+							7.0289,
+							6.2892,
+							7.0616,
+							6.2892,
+							7.3517,
+							5.1668,
+							7.3265
+						],
+						"confidence": 0.705,
+						"span": {
+							"offset": 903,
+							"length": 9
+						}
+					},
+					{
+						"content": "NW",
+						"polygon": [
+							5.8378,
+							6.8776,
+							6.2435,
+							6.8792,
+							6.2409,
+							7.0266,
+							5.8363,
+							7.0246
+						],
+						"confidence": 0.495,
+						"span": {
+							"offset": 913,
+							"length": 2
+						}
+					},
+					{
+						"content": "STEREO",
+						"polygon": [
+							3.4825,
+							7.3943,
+							4.0988,
+							7.3918,
+							4.0992,
+							7.5395,
+							3.4829,
+							7.5399
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 916,
+							"length": 6
+						}
+					},
+					{
+						"content": "DISPOSAL",
+						"polygon": [
+							4.1354,
+							7.3919,
+							4.891,
+							7.3865,
+							4.891,
+							7.5365,
+							4.1357,
+							7.5394
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 923,
+							"length": 8
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							0.8557,
+							7.8002,
+							1.1871,
+							7.8001,
+							1.1871,
+							7.9296,
+							0.856,
+							7.9307
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 932,
+							"length": 4
+						}
+					},
+					{
+						"content": "Qty.",
+						"polygon": [
+							1.5677,
+							7.7927,
+							1.8605,
+							7.7945,
+							1.8605,
+							7.9503,
+							1.5671,
+							7.9471
+						],
+						"confidence": 0.906,
+						"span": {
+							"offset": 937,
+							"length": 4
+						}
+					},
+					{
+						"content": "Disposal",
+						"polygon": [
+							2.4733,
+							7.7734,
+							3.0287,
+							7.7733,
+							3.028,
+							7.9418,
+							2.4731,
+							7.9391
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 942,
+							"length": 8
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							3.0697,
+							7.7736,
+							3.2302,
+							7.7725,
+							3.2302,
+							7.9413,
+							3.069,
+							7.942
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 951,
+							"length": 2
+						}
+					},
+					{
+						"content": "Checked",
+						"polygon": [
+							4.0762,
+							7.5868,
+							4.6295,
+							7.5862,
+							4.6287,
+							7.7432,
+							4.0761,
+							7.7409
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 954,
+							"length": 7
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							4.673,
+							7.5869,
+							4.8447,
+							7.5853,
+							4.844,
+							7.7439,
+							4.6722,
+							7.7437
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 962,
+							"length": 2
+						}
+					},
+					{
+						"content": "Packing",
+						"polygon": [
+							3.8158,
+							7.7604,
+							4.3487,
+							7.7598,
+							4.3484,
+							7.915,
+							3.8156,
+							7.9154
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 965,
+							"length": 7
+						}
+					},
+					{
+						"content": "Supervisor",
+						"polygon": [
+							4.3896,
+							7.7596,
+							5.0907,
+							7.7577,
+							5.0907,
+							7.9119,
+							4.3894,
+							7.9151
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 973,
+							"length": 10
+						}
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							4.0958,
+							7.927,
+							4.8682,
+							7.9228,
+							4.8682,
+							8.0832,
+							4.0966,
+							8.0874
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 984,
+							"length": 12
+						}
+					},
+					{
+						"content": "Verified",
+						"polygon": [
+							6.1232,
+							7.5612,
+							6.6536,
+							7.5647,
+							6.6516,
+							7.7224,
+							6.1228,
+							7.718
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 997,
+							"length": 8
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							6.7002,
+							7.5648,
+							6.8656,
+							7.565,
+							6.8656,
+							7.7224,
+							6.6983,
+							7.7224
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1006,
+							"length": 2
+						}
+					},
+					{
+						"content": "QA",
+						"polygon": [
+							6.0102,
+							7.7372,
+							6.2367,
+							7.7383,
+							6.2367,
+							7.8956,
+							6.0104,
+							7.8962
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1009,
+							"length": 2
+						}
+					},
+					{
+						"content": "Supervisor",
+						"polygon": [
+							6.2779,
+							7.7382,
+							6.9798,
+							7.7363,
+							6.9798,
+							7.8914,
+							6.2778,
+							7.8952
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1012,
+							"length": 10
+						}
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							6.1159,
+							7.9058,
+							6.8885,
+							7.902,
+							6.8885,
+							8.0565,
+							6.1165,
+							8.0589
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1023,
+							"length": 12
+						}
+					},
+					{
+						"content": "8/07/21",
+						"polygon": [
+							0.7174,
+							8.3421,
+							1.2955,
+							8.321,
+							1.2955,
+							8.5472,
+							0.7241,
+							8.5836
+						],
+						"confidence": 0.699,
+						"span": {
+							"offset": 1036,
+							"length": 7
+						}
+					},
+					{
+						"content": "27",
+						"polygon": [
+							1.5516,
+							8.3243,
+							1.9062,
+							8.3221,
+							1.9062,
+							8.5195,
+							1.5514,
+							8.5209
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1044,
+							"length": 2
+						}
+					},
+					{
+						"content": "CJP",
+						"polygon": [
+							2.7293,
+							8.2604,
+							3.2188,
+							8.2353,
+							3.2188,
+							8.4472,
+							2.7344,
+							8.4695
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1047,
+							"length": 3
+						}
+					},
+					{
+						"content": "@",
+						"polygon": [
+							3.7698,
+							8.1687,
+							3.9986,
+							8.1718,
+							3.9976,
+							8.4895,
+							3.769,
+							8.4855
+						],
+						"confidence": 0.266,
+						"span": {
+							"offset": 1051,
+							"length": 1
+						}
+					},
+					{
+						"content": "28/07/21",
+						"polygon": [
+							4.0611,
+							8.1734,
+							4.8625,
+							8.1825,
+							4.8625,
+							8.4981,
+							4.0598,
+							8.4914
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 1053,
+							"length": 8
+						}
+					},
+					{
+						"content": "(Recently",
+						"polygon": [
+							5.6658,
+							8.1058,
+							6.7116,
+							8.129,
+							6.7116,
+							8.6178,
+							5.6661,
+							8.6178
+						],
+						"confidence": 0.112,
+						"span": {
+							"offset": 1062,
+							"length": 9
+						}
+					},
+					{
+						"content": "1/2",
+						"polygon": [
+							4.3269,
+							8.7577,
+							4.8054,
+							8.7597,
+							4.8054,
+							8.9251,
+							4.326,
+							8.924
+						],
+						"confidence": 0.229,
+						"span": {
+							"offset": 1072,
+							"length": 3
+						}
+					},
+					{
+						"content": "@28/07/21",
+						"polygon": [
+							6.7809,
+							8.5966,
+							7.7331,
+							8.6768,
+							7.7331,
+							8.9714,
+							6.768,
+							8.8922
+						],
+						"confidence": 0.685,
+						"span": {
+							"offset": 1076,
+							"length": 9
+						}
+					},
+					{
+						"content": "2",
+						"polygon": [
+							0.5854,
+							8.4522,
+							0.7095,
+							8.4445,
+							0.7134,
+							8.5991,
+							0.5988,
+							8.6103
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 1086,
+							"length": 1
+						}
+					},
+					{
+						"content": "Prepared",
+						"polygon": [
+							0.8167,
+							10.1672,
+							1.3036,
+							10.1659,
+							1.3015,
+							10.3157,
+							0.816,
+							10.3171
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1088,
+							"length": 8
+						}
+					},
+					{
+						"content": "By",
+						"polygon": [
+							1.3452,
+							10.1656,
+							1.5067,
+							10.1661,
+							1.5067,
+							10.3152,
+							1.3432,
+							10.3153
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1097,
+							"length": 2
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							2.4255,
+							10.2997,
+							2.8054,
+							10.2205,
+							2.8421,
+							10.443,
+							2.4806,
+							10.5627
+						],
+						"confidence": 0.469,
+						"span": {
+							"offset": 1100,
+							"length": 1
+						}
+					},
+					{
+						"content": "23/02/1",
+						"polygon": [
+							2.5909,
+							10.4719,
+							3.4797,
+							10.3382,
+							3.4813,
+							10.6654,
+							2.6532,
+							10.7509
+						],
+						"confidence": 0.662,
+						"span": {
+							"offset": 1102,
+							"length": 7
+						}
+					},
+					{
+						"content": "Approved",
+						"polygon": [
+							4.2936,
+							10.1269,
+							4.8456,
+							10.1261,
+							4.8449,
+							10.2771,
+							4.2932,
+							10.2816
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1110,
+							"length": 8
+						}
+					},
+					{
+						"content": "By",
+						"polygon": [
+							4.8755,
+							10.1261,
+							5.0451,
+							10.1245,
+							5.0451,
+							10.2779,
+							4.8747,
+							10.2767
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 1119,
+							"length": 2
+						}
+					},
+					{
+						"content": "phs",
+						"polygon": [
+							5.2683,
+							10.4667,
+							5.5584,
+							10.3713,
+							5.6329,
+							10.5592,
+							5.3408,
+							10.6748
+						],
+						"confidence": 0.681,
+						"span": {
+							"offset": 1122,
+							"length": 3
+						}
+					},
+					{
+						"content": "02/03/4",
+						"polygon": [
+							5.3832,
+							10.6759,
+							6.0753,
+							10.4501,
+							6.118,
+							10.6644,
+							5.4487,
+							10.8568
+						],
+						"confidence": 0.651,
+						"span": {
+							"offset": 1126,
+							"length": 7
+						}
+					},
+					{
+						"content": "Sign",
+						"polygon": [
+							0.8272,
+							10.7588,
+							1.0825,
+							10.7563,
+							1.0833,
+							10.907,
+							0.8292,
+							10.9106
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1134,
+							"length": 4
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							1.1151,
+							10.7558,
+							1.2177,
+							10.755,
+							1.2181,
+							10.9062,
+							1.1155,
+							10.907
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1139,
+							"length": 1
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							1.2528,
+							10.7544,
+							1.5006,
+							10.752,
+							1.5008,
+							10.9048,
+							1.2531,
+							10.9057
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1141,
+							"length": 4
+						}
+					},
+					{
+						"content": "(TTD)",
+						"polygon": [
+							1.5331,
+							10.7516,
+							1.8986,
+							10.7466,
+							1.8989,
+							10.903,
+							1.5334,
+							10.9046
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1146,
+							"length": 5
+						}
+					},
+					{
+						"content": "Sign",
+						"polygon": [
+							4.2973,
+							10.7374,
+							4.5406,
+							10.7372,
+							4.5407,
+							10.8914,
+							4.2975,
+							10.8925
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1152,
+							"length": 4
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							4.571,
+							10.737,
+							4.6927,
+							10.7368,
+							4.6929,
+							10.8899,
+							4.5711,
+							10.8909
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1157,
+							"length": 1
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							4.7307,
+							10.7368,
+							4.9816,
+							10.7353,
+							4.9819,
+							10.8886,
+							4.731,
+							10.89
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1159,
+							"length": 4
+						}
+					},
+					{
+						"content": "(QA)",
+						"polygon": [
+							5.0146,
+							10.7347,
+							5.3111,
+							10.7318,
+							5.3133,
+							10.8881,
+							5.015,
+							10.8884
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 1164,
+							"length": 4
+						}
+					},
+					{
+						"content": "FORM",
+						"polygon": [
+							0.7551,
+							10.9651,
+							1.067,
+							10.9628,
+							1.0672,
+							11.0773,
+							0.7558,
+							11.0804
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 1169,
+							"length": 4
+						}
+					},
+					{
+						"content": "NO.",
+						"polygon": [
+							1.0895,
+							10.9627,
+							1.2586,
+							10.9613,
+							1.2588,
+							11.075,
+							1.0898,
+							11.0771
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1174,
+							"length": 3
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							1.2811,
+							10.961,
+							1.3243,
+							10.9603,
+							1.3246,
+							11.0742,
+							1.2814,
+							11.0747
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1178,
+							"length": 1
+						}
+					},
+					{
+						"content": "FTT001-03/04",
+						"polygon": [
+							1.3544,
+							10.9599,
+							2.0089,
+							10.9543,
+							2.0089,
+							11.0687,
+							1.3547,
+							11.0739
+						],
+						"confidence": 0.811,
+						"span": {
+							"offset": 1180,
+							"length": 12
+						}
+					},
+					{
+						"content": "CERTIFIED",
+						"polygon": [
+							6.0602,
+							10.9565,
+							7.2316,
+							10.9467,
+							7.2321,
+							11.1528,
+							6.0607,
+							11.1615
+						],
+						"confidence": 0.782,
+						"span": {
+							"offset": 1193,
+							"length": 9
+						}
+					},
+					{
+						"content": "COPY",
+						"polygon": [
+							7.2897,
+							10.9454,
+							7.8929,
+							10.9411,
+							7.8929,
+							11.155,
+							7.2901,
+							11.1532
+						],
+						"confidence": 0.913,
+						"span": {
+							"offset": 1203,
+							"length": 4
+						}
+					},
+					{
+						"content": "@10/07/4",
+						"polygon": [
+							6.2472,
+							11.1753,
+							7.3222,
+							11.1774,
+							7.3222,
+							11.4469,
+							6.2471,
+							11.4524
+						],
+						"confidence": 0.363,
+						"span": {
+							"offset": 1208,
+							"length": 8
+						}
+					}
+				],
+				"selectionMarks": [
+					{
+						"state": "selected",
+						"polygon": [
+							1.2591,
+							4.9133,
+							1.5819,
+							4.9052,
+							1.5895,
+							5.1583,
+							1.2506,
+							5.1663
+						],
+						"confidence": 0.866,
+						"span": {
+							"offset": 590,
+							"length": 10
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "CADILA",
+						"polygon": [
+							1.0565,
+							0.5878,
+							1.669,
+							0.5841,
+							1.6702,
+							0.7806,
+							1.0577,
+							0.7844
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "PHARMACEUTICALS",
+						"polygon": [
+							1.0578,
+							0.7825,
+							1.6829,
+							0.7792,
+							1.6834,
+							0.8674,
+							1.0583,
+							0.8707
+						],
+						"spans": [
+							{
+								"offset": 7,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "LIMITED",
+						"polygon": [
+							1.2262,
+							0.8603,
+							1.4941,
+							0.8559,
+							1.495,
+							0.9086,
+							1.2271,
+							0.913
+						],
+						"spans": [
+							{
+								"offset": 23,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "CADILA PHARMACEUTICALS LTD. DHOLKA",
+						"polygon": [
+							2.8136,
+							0.5086,
+							5.4591,
+							0.4821,
+							5.4604,
+							0.61,
+							2.8142,
+							0.6365
+						],
+						"spans": [
+							{
+								"offset": 31,
+								"length": 34
+							}
+						]
+					},
+					{
+						"content": "BATCH PACKING RECORD",
+						"polygon": [
+							3.2936,
+							0.6807,
+							4.8958,
+							0.6673,
+							4.8967,
+							0.7905,
+							3.2946,
+							0.8039
+						],
+						"spans": [
+							{
+								"offset": 66,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "MASTER COPY",
+						"polygon": [
+							5.6126,
+							0.4113,
+							7.5642,
+							0.4126,
+							7.564,
+							0.6648,
+							5.6124,
+							0.6635
+						],
+						"spans": [
+							{
+								"offset": 87,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Page 6 of 53",
+						"polygon": [
+							6.7026,
+							0.6547,
+							7.3514,
+							0.6486,
+							7.3526,
+							0.77,
+							6.7038,
+							0.7757
+						],
+						"spans": [
+							{
+								"offset": 99,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "PRODUCT NAME: ACILOC 300",
+						"polygon": [
+							0.7596,
+							1.1365,
+							2.7328,
+							1.116,
+							2.7337,
+							1.2442,
+							0.761,
+							1.2647
+						],
+						"spans": [
+							{
+								"offset": 112,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "BATCH NO .: LO21076",
+						"polygon": [
+							5.3484,
+							1.0726,
+							7.0236,
+							1.0708,
+							7.0238,
+							1.2216,
+							5.3485,
+							1.2234
+						],
+						"spans": [
+							{
+								"offset": 137,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "BPR No .: CP/DDDT303/MF/01/00/D",
+						"polygon": [
+							0.7654,
+							1.3742,
+							2.8741,
+							1.3539,
+							2.8754,
+							1.4877,
+							0.7667,
+							1.508
+						],
+						"spans": [
+							{
+								"offset": 157,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "MFG. DATE: JUL 2021",
+						"polygon": [
+							3.1736,
+							1.3426,
+							4.788,
+							1.3372,
+							4.7883,
+							1.4814,
+							3.1741,
+							1.4869
+						],
+						"spans": [
+							{
+								"offset": 189,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "EXP. DATE:",
+						"polygon": [
+							5.3512,
+							1.3286,
+							6.1271,
+							1.3248,
+							6.1277,
+							1.4501,
+							5.3518,
+							1.454
+						],
+						"spans": [
+							{
+								"offset": 209,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "DEC 2023",
+						"polygon": [
+							6.3376,
+							1.314,
+							7.0875,
+							1.3129,
+							7.0877,
+							1.4563,
+							6.3378,
+							1.4573
+						],
+						"spans": [
+							{
+								"offset": 220,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "5. BRIEF PACKAGING INSTRUCTIONS",
+						"polygon": [
+							2.7068,
+							1.6676,
+							5.6953,
+							1.6336,
+							5.6957,
+							1.7871,
+							2.7086,
+							1.8194
+						],
+						"spans": [
+							{
+								"offset": 229,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "1. Pack 20 tablets in strip",
+						"polygon": [
+							0.7077,
+							1.882,
+							2.2965,
+							1.8747,
+							2.2972,
+							2.0302,
+							0.7079,
+							2.0361
+						],
+						"spans": [
+							{
+								"offset": 261,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Remarks: Strip Size: 112 x 116.5 mm NEW LAYOUT NO .: RE - 7620",
+						"polygon": [
+							0.6971,
+							2.3893,
+							5.0632,
+							2.3384,
+							5.0653,
+							2.4939,
+							0.6991,
+							2.5494
+						],
+						"spans": [
+							{
+								"offset": 289,
+								"length": 62
+							}
+						]
+					},
+					{
+						"content": "5.1 LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING",
+						"polygon": [
+							1.5885,
+							2.8921,
+							6.8316,
+							2.8346,
+							6.8336,
+							3.0042,
+							1.5905,
+							3.0627
+						],
+						"spans": [
+							{
+								"offset": 352,
+								"length": 55
+							}
+						]
+					},
+					{
+						"content": "SR.",
+						"polygon": [
+							0.8366,
+							3.4102,
+							1.0749,
+							3.409,
+							1.0756,
+							3.5394,
+							0.8372,
+							3.5406
+						],
+						"spans": [
+							{
+								"offset": 408,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "NO.",
+						"polygon": [
+							0.8179,
+							3.5741,
+							1.0929,
+							3.5732,
+							1.0933,
+							3.7083,
+							0.8183,
+							3.7092
+						],
+						"spans": [
+							{
+								"offset": 412,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "MACHINE",
+						"polygon": [
+							2.3224,
+							3.4664,
+							3.0798,
+							3.4623,
+							3.0805,
+							3.6015,
+							2.3231,
+							3.6045
+						],
+						"spans": [
+							{
+								"offset": 416,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "ID. NO.",
+						"polygon": [
+							4.5708,
+							3.4457,
+							5.0915,
+							3.4444,
+							5.0918,
+							3.5826,
+							4.5712,
+							3.5839
+						],
+						"spans": [
+							{
+								"offset": 424,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "CLEANING & OPERATING",
+						"polygon": [
+							5.5731,
+							3.3089,
+							7.4905,
+							3.2966,
+							7.4915,
+							3.4443,
+							5.5741,
+							3.4572
+						],
+						"spans": [
+							{
+								"offset": 432,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "SOP NO.",
+						"polygon": [
+							6.2271,
+							3.5589,
+							6.8333,
+							3.5574,
+							6.8336,
+							3.6971,
+							6.2275,
+							3.6987
+						],
+						"spans": [
+							{
+								"offset": 453,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "1.",
+						"polygon": [
+							0.912,
+							3.9493,
+							1.0191,
+							3.9491,
+							1.0193,
+							4.0759,
+							0.9122,
+							4.0761
+						],
+						"spans": [
+							{
+								"offset": 461,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "STRIP MACHINE WITH CHANGE PARTS",
+						"polygon": [
+							1.2638,
+							3.9213,
+							3.9811,
+							3.8996,
+							3.9824,
+							4.0591,
+							1.2651,
+							4.0808
+						],
+						"spans": [
+							{
+								"offset": 464,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "DPC273",
+						"polygon": [
+							4.3065,
+							3.8858,
+							5.2157,
+							3.8835,
+							5.2161,
+							4.0554,
+							4.3069,
+							4.0577
+						],
+						"spans": [
+							{
+								"offset": 496,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "DCP039",
+						"polygon": [
+							5.8234,
+							3.8717,
+							6.6773,
+							3.8698,
+							6.6777,
+							4.043,
+							5.8238,
+							4.045
+						],
+						"spans": [
+							{
+								"offset": 503,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "2.",
+						"polygon": [
+							0.8988,
+							4.2909,
+							1.0203,
+							4.2904,
+							1.0208,
+							4.4151,
+							0.8993,
+							4.4155
+						],
+						"spans": [
+							{
+								"offset": 510,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "DEFOILER MACHINE",
+						"polygon": [
+							1.2627,
+							4.2718,
+							2.7275,
+							4.2598,
+							2.728,
+							4.4049,
+							1.2639,
+							4.4168
+						],
+						"spans": [
+							{
+								"offset": 513,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "NA",
+						"polygon": [
+							4.5389,
+							4.2641,
+							4.9188,
+							4.2596,
+							4.9203,
+							4.3906,
+							4.5405,
+							4.3951
+						],
+						"spans": [
+							{
+								"offset": 530,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "NA",
+						"polygon": [
+							5.9969,
+							4.2565,
+							6.3246,
+							4.2564,
+							6.3246,
+							4.3998,
+							5.997,
+							4.4
+						],
+						"spans": [
+							{
+								"offset": 533,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "3.",
+						"polygon": [
+							0.9033,
+							4.6265,
+							1.0227,
+							4.6261,
+							1.0232,
+							4.7534,
+							0.9038,
+							4.7538
+						],
+						"spans": [
+							{
+								"offset": 536,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "LEAK TEST APPARATUS",
+						"polygon": [
+							1.2664,
+							4.6072,
+							2.9665,
+							4.5929,
+							2.9677,
+							4.7401,
+							1.2676,
+							4.7543
+						],
+						"spans": [
+							{
+								"offset": 539,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Dre203",
+						"polygon": [
+							4.2263,
+							4.4801,
+							4.9065,
+							4.4772,
+							4.9071,
+							4.6048,
+							4.2269,
+							4.6077
+						],
+						"spans": [
+							{
+								"offset": 559,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "DDC204",
+						"polygon": [
+							4.2461,
+							4.6227,
+							4.8861,
+							4.6158,
+							4.8874,
+							4.7329,
+							4.2472,
+							4.7398
+						],
+						"spans": [
+							{
+								"offset": 566,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "OPCRIA",
+						"polygon": [
+							4.6559,
+							4.7163,
+							5.3355,
+							4.6996,
+							5.3386,
+							4.8149,
+							4.659,
+							4.8328
+						],
+						"spans": [
+							{
+								"offset": 573,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "DCP035",
+						"polygon": [
+							5.806,
+							4.5537,
+							6.701,
+							4.5495,
+							6.7019,
+							4.742,
+							5.8069,
+							4.7463
+						],
+						"spans": [
+							{
+								"offset": 580,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "4.",
+						"polygon": [
+							0.9079,
+							4.9676,
+							1.0304,
+							4.9675,
+							1.0306,
+							5.0935,
+							0.9081,
+							5.0936
+						],
+						"spans": [
+							{
+								"offset": 587,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "EPD/COLLATOR",
+						"polygon": [
+							1.265,
+							4.9456,
+							2.4001,
+							4.9417,
+							2.4006,
+							5.0914,
+							1.2655,
+							5.0952
+						],
+						"spans": [
+							{
+								"offset": 601,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "DPC273",
+						"polygon": [
+							4.3489,
+							4.9276,
+							5.2394,
+							4.9187,
+							5.241,
+							5.0787,
+							4.3505,
+							5.0874
+						],
+						"spans": [
+							{
+								"offset": 614,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "DC1028",
+						"polygon": [
+							5.9261,
+							4.8822,
+							6.8539,
+							4.8821,
+							6.8539,
+							5.0539,
+							5.9262,
+							5.054
+						],
+						"spans": [
+							{
+								"offset": 621,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "5.2 STEREO RECONCILIATION (AS PER RESPECTIVE SOP)",
+						"polygon": [
+							2.036,
+							5.3045,
+							6.4091,
+							5.2757,
+							6.4102,
+							5.4425,
+							2.0371,
+							5.4696
+						],
+						"spans": [
+							{
+								"offset": 628,
+								"length": 49
+							}
+						]
+					},
+					{
+						"content": "STEREO ISSUANCE & RETRIEVAL",
+						"polygon": [
+							2.926,
+							5.6049,
+							5.4226,
+							5.5838,
+							5.4239,
+							5.7324,
+							2.9272,
+							5.7535
+						],
+						"spans": [
+							{
+								"offset": 678,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							0.8424,
+							5.8426,
+							1.1656,
+							5.841,
+							1.1662,
+							5.9713,
+							0.8431,
+							5.973
+						],
+						"spans": [
+							{
+								"offset": 706,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "of",
+						"polygon": [
+							0.9402,
+							6.0166,
+							1.088,
+							6.0159,
+							1.0886,
+							6.1415,
+							0.9408,
+							6.1422
+						],
+						"spans": [
+							{
+								"offset": 711,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Issue",
+						"polygon": [
+							0.8358,
+							6.1805,
+							1.1792,
+							6.1824,
+							1.1785,
+							6.3099,
+							0.8351,
+							6.3079
+						],
+						"spans": [
+							{
+								"offset": 714,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Issued to",
+						"polygon": [
+							1.4573,
+							5.8305,
+							2.0438,
+							5.8257,
+							2.0449,
+							5.9648,
+							1.4584,
+							5.9697
+						],
+						"spans": [
+							{
+								"offset": 720,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "(M/C",
+						"polygon": [
+							1.5761,
+							6.0004,
+							1.9339,
+							5.9946,
+							1.9362,
+							6.1406,
+							1.5785,
+							6.1464
+						],
+						"spans": [
+							{
+								"offset": 730,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Operator)",
+						"polygon": [
+							1.4263,
+							6.1699,
+							2.0853,
+							6.1655,
+							2.0863,
+							6.3131,
+							1.4273,
+							6.3176
+						],
+						"spans": [
+							{
+								"offset": 735,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Qty.",
+						"polygon": [
+							2.3906,
+							5.9958,
+							2.6826,
+							5.9962,
+							2.6823,
+							6.1478,
+							2.3904,
+							6.1474
+						],
+						"spans": [
+							{
+								"offset": 745,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Packing",
+						"polygon": [
+							3.0393,
+							5.8102,
+							3.5829,
+							5.8144,
+							3.5817,
+							5.967,
+							3.0382,
+							5.9628
+						],
+						"spans": [
+							{
+								"offset": 750,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Supervisor",
+						"polygon": [
+							2.9542,
+							5.9823,
+							3.6733,
+							5.9795,
+							3.6739,
+							6.1328,
+							2.9548,
+							6.1356
+						],
+						"spans": [
+							{
+								"offset": 758,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							2.9353,
+							6.148,
+							3.699,
+							6.1408,
+							3.7005,
+							6.2963,
+							2.9367,
+							6.3023
+						],
+						"spans": [
+							{
+								"offset": 769,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Date of",
+						"polygon": [
+							4.0259,
+							5.8878,
+							4.5318,
+							5.8836,
+							4.5329,
+							6.0229,
+							4.027,
+							6.027
+						],
+						"spans": [
+							{
+								"offset": 782,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Retrieval",
+						"polygon": [
+							3.9678,
+							6.0578,
+							4.5842,
+							6.054,
+							4.5851,
+							6.1918,
+							3.9687,
+							6.1956
+						],
+						"spans": [
+							{
+								"offset": 790,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Qty.",
+						"polygon": [
+							4.9742,
+							5.9715,
+							5.2602,
+							5.9723,
+							5.2596,
+							6.1238,
+							4.9736,
+							6.1226
+						],
+						"spans": [
+							{
+								"offset": 800,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Retrieval By",
+						"polygon": [
+							5.6303,
+							5.8631,
+							6.4571,
+							5.8651,
+							6.4564,
+							6.0212,
+							5.6296,
+							6.0175
+						],
+						"spans": [
+							{
+								"offset": 805,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "(M/C Operator)",
+						"polygon": [
+							5.5413,
+							6.0369,
+							6.5753,
+							6.0342,
+							6.5759,
+							6.1965,
+							5.5419,
+							6.1999
+						],
+						"spans": [
+							{
+								"offset": 818,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Packing",
+						"polygon": [
+							6.86,
+							5.7717,
+							7.3958,
+							5.7748,
+							7.3949,
+							5.9288,
+							6.8591,
+							5.9257
+						],
+						"spans": [
+							{
+								"offset": 833,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Supervisor",
+						"polygon": [
+							6.7754,
+							5.9451,
+							7.4914,
+							5.9444,
+							7.4916,
+							6.0965,
+							6.7756,
+							6.0972
+						],
+						"spans": [
+							{
+								"offset": 841,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							6.7497,
+							6.1073,
+							7.5203,
+							6.101,
+							7.5217,
+							6.2613,
+							6.7511,
+							6.2677
+						],
+						"spans": [
+							{
+								"offset": 852,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "26107121",
+						"polygon": [
+							0.6506,
+							6.7073,
+							1.2382,
+							6.3504,
+							1.3069,
+							6.5044,
+							0.7161,
+							6.8498
+						],
+						"spans": [
+							{
+								"offset": 865,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "BGP",
+						"polygon": [
+							1.3791,
+							6.5138,
+							1.9689,
+							6.4997,
+							1.9733,
+							6.6833,
+							1.3836,
+							6.6975
+						],
+						"spans": [
+							{
+								"offset": 874,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "27",
+						"polygon": [
+							2.3228,
+							6.5116,
+							2.6209,
+							6.4941,
+							2.6253,
+							6.6649,
+							2.3294,
+							6.6824
+						],
+						"spans": [
+							{
+								"offset": 878,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "26107121",
+						"polygon": [
+							2.9248,
+							6.6055,
+							3.7555,
+							6.5487,
+							3.7667,
+							6.7163,
+							2.9363,
+							6.7731
+						],
+						"spans": [
+							{
+								"offset": 881,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Nb",
+						"polygon": [
+							0.8675,
+							7.2119,
+							1.2374,
+							7.1235,
+							1.2613,
+							7.2895,
+							0.8899,
+							7.3802
+						],
+						"spans": [
+							{
+								"offset": 890,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "N/A",
+						"polygon": [
+							1.5523,
+							7.1381,
+							1.9986,
+							7.0214,
+							2.026,
+							7.1772,
+							1.5829,
+							7.2939
+						],
+						"spans": [
+							{
+								"offset": 893,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "NW",
+						"polygon": [
+							2.3,
+							7.0976,
+							2.661,
+							7.0814,
+							2.6652,
+							7.2373,
+							2.3058,
+							7.2535
+						],
+						"spans": [
+							{
+								"offset": 897,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "NW",
+						"polygon": [
+							3.2359,
+							7.0756,
+							3.6138,
+							7.0573,
+							3.6183,
+							7.2206,
+							3.2398,
+							7.2376
+						],
+						"spans": [
+							{
+								"offset": 900,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "@28/07/21",
+						"polygon": [
+							5.1701,
+							7.0287,
+							6.2892,
+							7.0593,
+							6.2817,
+							7.3517,
+							5.1649,
+							7.3248
+						],
+						"spans": [
+							{
+								"offset": 903,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "NW",
+						"polygon": [
+							5.837,
+							6.8773,
+							6.2382,
+							6.8792,
+							6.2375,
+							7.0257,
+							5.8363,
+							7.0238
+						],
+						"spans": [
+							{
+								"offset": 913,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "STEREO DISPOSAL",
+						"polygon": [
+							3.482,
+							7.3943,
+							4.8879,
+							7.3859,
+							4.8888,
+							7.5346,
+							3.4829,
+							7.5399
+						],
+						"spans": [
+							{
+								"offset": 916,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							0.8557,
+							7.7998,
+							1.1814,
+							7.7991,
+							1.1817,
+							7.9292,
+							0.856,
+							7.93
+						],
+						"spans": [
+							{
+								"offset": 932,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Qty.",
+						"polygon": [
+							1.5677,
+							7.7927,
+							1.8588,
+							7.7943,
+							1.858,
+							7.949,
+							1.5668,
+							7.9474
+						],
+						"spans": [
+							{
+								"offset": 937,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Disposal by",
+						"polygon": [
+							2.4729,
+							7.7734,
+							3.2302,
+							7.7725,
+							3.2302,
+							7.9391,
+							2.4731,
+							7.9399
+						],
+						"spans": [
+							{
+								"offset": 942,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Checked by",
+						"polygon": [
+							4.0762,
+							7.5846,
+							4.842,
+							7.5852,
+							4.8419,
+							7.7413,
+							4.0761,
+							7.7406
+						],
+						"spans": [
+							{
+								"offset": 954,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Packing Supervisor",
+						"polygon": [
+							3.8151,
+							7.7599,
+							5.0886,
+							7.7566,
+							5.0891,
+							7.9118,
+							3.8156,
+							7.9155
+						],
+						"spans": [
+							{
+								"offset": 965,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							4.0955,
+							7.927,
+							4.8645,
+							7.922,
+							4.8656,
+							8.0811,
+							4.0966,
+							8.0861
+						],
+						"spans": [
+							{
+								"offset": 984,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Verified by",
+						"polygon": [
+							6.1232,
+							7.5612,
+							6.8601,
+							7.5646,
+							6.8594,
+							7.7224,
+							6.1224,
+							7.7192
+						],
+						"spans": [
+							{
+								"offset": 997,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "QA Supervisor",
+						"polygon": [
+							6.0097,
+							7.7372,
+							6.9788,
+							7.7331,
+							6.9794,
+							7.8899,
+							6.0104,
+							7.894
+						],
+						"spans": [
+							{
+								"offset": 1009,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "(Sign./Date)",
+						"polygon": [
+							6.1154,
+							7.9057,
+							6.8828,
+							7.9003,
+							6.8839,
+							8.0551,
+							6.1165,
+							8.0589
+						],
+						"spans": [
+							{
+								"offset": 1023,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "8/07/21",
+						"polygon": [
+							0.7139,
+							8.3399,
+							1.2871,
+							8.316,
+							1.2955,
+							8.5588,
+							0.724,
+							8.5827
+						],
+						"spans": [
+							{
+								"offset": 1036,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "27",
+						"polygon": [
+							1.5497,
+							8.3242,
+							1.9018,
+							8.3213,
+							1.9035,
+							8.5161,
+							1.5514,
+							8.5192
+						],
+						"spans": [
+							{
+								"offset": 1044,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "CJP",
+						"polygon": [
+							2.728,
+							8.257,
+							3.2084,
+							8.2317,
+							3.2188,
+							8.445,
+							2.7345,
+							8.4695
+						],
+						"spans": [
+							{
+								"offset": 1047,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "@ 28/07/21",
+						"polygon": [
+							3.7698,
+							8.1673,
+							4.8597,
+							8.1824,
+							4.8552,
+							8.4981,
+							3.7667,
+							8.4851
+						],
+						"spans": [
+							{
+								"offset": 1051,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "(Recently",
+						"polygon": [
+							5.6658,
+							8.1058,
+							6.7106,
+							8.1062,
+							6.7104,
+							8.6123,
+							5.6656,
+							8.6119
+						],
+						"spans": [
+							{
+								"offset": 1062,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "1/2",
+						"polygon": [
+							4.3266,
+							8.7577,
+							4.8049,
+							8.7594,
+							4.8043,
+							8.9229,
+							4.326,
+							8.9212
+						],
+						"spans": [
+							{
+								"offset": 1072,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "@28/07/21",
+						"polygon": [
+							6.7815,
+							8.595,
+							7.7331,
+							8.6739,
+							7.7201,
+							8.9705,
+							6.7629,
+							8.8862
+						],
+						"spans": [
+							{
+								"offset": 1076,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "2",
+						"polygon": [
+							0.5823,
+							8.4525,
+							0.6939,
+							8.441,
+							0.7104,
+							8.5981,
+							0.5987,
+							8.6098
+						],
+						"spans": [
+							{
+								"offset": 1086,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "Prepared By",
+						"polygon": [
+							0.8159,
+							10.166,
+							1.5018,
+							10.1654,
+							1.502,
+							10.3143,
+							0.816,
+							10.3149
+						],
+						"spans": [
+							{
+								"offset": 1088,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "A",
+						"polygon": [
+							2.4255,
+							10.3004,
+							2.7899,
+							10.2205,
+							2.8421,
+							10.4821,
+							2.4801,
+							10.5627
+						],
+						"spans": [
+							{
+								"offset": 1100,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "23/02/1",
+						"polygon": [
+							2.5865,
+							10.4345,
+							3.4603,
+							10.3346,
+							3.4813,
+							10.6567,
+							2.6252,
+							10.7509
+						],
+						"spans": [
+							{
+								"offset": 1102,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Approved By",
+						"polygon": [
+							4.2927,
+							10.1269,
+							5.043,
+							10.1244,
+							5.0435,
+							10.2765,
+							4.2932,
+							10.2791
+						],
+						"spans": [
+							{
+								"offset": 1110,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "phs",
+						"polygon": [
+							5.2677,
+							10.467,
+							5.5637,
+							10.3688,
+							5.6329,
+							10.568,
+							5.3399,
+							10.6722
+						],
+						"spans": [
+							{
+								"offset": 1122,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "02/03/4",
+						"polygon": [
+							5.3818,
+							10.649,
+							6.0615,
+							10.4486,
+							6.118,
+							10.661,
+							5.4378,
+							10.8593
+						],
+						"spans": [
+							{
+								"offset": 1126,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Sign & Date (TTD)",
+						"polygon": [
+							0.8272,
+							10.7588,
+							1.8959,
+							10.7466,
+							1.8977,
+							10.9004,
+							0.829,
+							10.9106
+						],
+						"spans": [
+							{
+								"offset": 1134,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Sign & Date (QA)",
+						"polygon": [
+							4.2968,
+							10.7361,
+							5.3097,
+							10.731,
+							5.3104,
+							10.8861,
+							4.2975,
+							10.8913
+						],
+						"spans": [
+							{
+								"offset": 1152,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "FORM NO. : FTT001-03/04",
+						"polygon": [
+							0.7548,
+							10.9651,
+							2.0055,
+							10.9541,
+							2.0065,
+							11.0676,
+							0.7558,
+							11.0786
+						],
+						"spans": [
+							{
+								"offset": 1169,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "CERTIFIED COPY",
+						"polygon": [
+							6.0597,
+							10.9494,
+							7.8894,
+							10.9408,
+							7.8903,
+							11.1513,
+							6.0607,
+							11.1599
+						],
+						"spans": [
+							{
+								"offset": 1193,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "@10/07/4",
+						"polygon": [
+							6.2472,
+							11.1753,
+							7.319,
+							11.1758,
+							7.3189,
+							11.4485,
+							6.2471,
+							11.4481
+						],
+						"spans": [
+							{
+								"offset": 1208,
+								"length": 8
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1216
+					}
+				]
+			}
+		],
+		"tables": [
+			{
+				"rowCount": 2,
+				"columnCount": 4,
+				"cells": [
+					{
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"content": "PRODUCT NAME: ACILOC 300",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7025,
+									1.0604,
+									3.0119,
+									1.039,
+									3.0119,
+									1.3095,
+									0.7025,
+									1.3309
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 112,
+								"length": 24
+							}
+						],
+						"elements": [
+							"/paragraphs/4"
+						]
+					},
+					{
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.0119,
+									1.039,
+									5.0585,
+									1.0176,
+									5.0585,
+									1.2953,
+									3.0119,
+									1.3095
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 0,
+						"columnIndex": 2,
+						"content": "BATCH NO .:",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.0585,
+									1.0176,
+									6.2452,
+									1.0034,
+									6.2452,
+									1.281,
+									5.0585,
+									1.2953
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 137,
+								"length": 11
+							}
+						],
+						"elements": [
+							"/paragraphs/5"
+						]
+					},
+					{
+						"rowIndex": 0,
+						"columnIndex": 3,
+						"content": "LO21076",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									6.2452,
+									1.0034,
+									7.3963,
+									1.0034,
+									7.3963,
+									1.2668,
+									6.2452,
+									1.281
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 149,
+								"length": 7
+							}
+						],
+						"elements": [
+							"/paragraphs/6"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"content": "BPR No .: CP/DDDT303/MF/01/00/D",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7025,
+									1.3309,
+									3.0119,
+									1.3095,
+									3.019,
+									1.5373,
+									0.7025,
+									1.5515
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 157,
+								"length": 31
+							}
+						],
+						"elements": [
+							"/paragraphs/7"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"content": "MFG. DATE: JUL 2021",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.0119,
+									1.3095,
+									5.0585,
+									1.2953,
+									5.0585,
+									1.5159,
+									3.019,
+									1.5373
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 189,
+								"length": 19
+							}
+						],
+						"elements": [
+							"/paragraphs/8"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 2,
+						"content": "EXP. DATE:",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.0585,
+									1.2953,
+									6.2452,
+									1.281,
+									6.2452,
+									1.5088,
+									5.0585,
+									1.5159
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 209,
+								"length": 10
+							}
+						],
+						"elements": [
+							"/paragraphs/9"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 3,
+						"content": "DEC 2023",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									6.2452,
+									1.281,
+									7.3963,
+									1.2668,
+									7.4035,
+									1.4875,
+									6.2452,
+									1.5088
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 220,
+								"length": 8
+							}
+						],
+						"elements": [
+							"/paragraphs/10"
+						]
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7052,
+							1.0307,
+							7.6052,
+							0.9845,
+							7.6162,
+							1.5165,
+							0.7149,
+							1.5633
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 112,
+						"length": 116
+					}
+				]
+			},
+			{
+				"rowCount": 5,
+				"columnCount": 4,
+				"cells": [
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"content": "SR. NO.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7139,
+									3.2556,
+									1.1971,
+									3.2485,
+									1.1971,
+									3.831,
+									0.7139,
+									3.8381
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 408,
+								"length": 7
+							}
+						],
+						"elements": [
+							"/paragraphs/15"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"content": "MACHINE",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.1971,
+									3.2485,
+									4.2172,
+									3.2272,
+									4.2172,
+									3.8026,
+									1.1971,
+									3.831
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 416,
+								"length": 7
+							}
+						],
+						"elements": [
+							"/paragraphs/16"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 2,
+						"content": "ID. NO.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.2172,
+									3.2272,
+									5.4536,
+									3.213,
+									5.4536,
+									3.7884,
+									4.2172,
+									3.8026
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 424,
+								"length": 7
+							}
+						],
+						"elements": [
+							"/paragraphs/17"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 3,
+						"content": "CLEANING & OPERATING SOP NO.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4536,
+									3.213,
+									7.6067,
+									3.1917,
+									7.6138,
+									3.767,
+									5.4536,
+									3.7884
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 432,
+								"length": 28
+							}
+						],
+						"elements": [
+							"/paragraphs/18"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"content": "1.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7139,
+									3.8381,
+									1.1971,
+									3.831,
+									1.1971,
+									4.1719,
+									0.721,
+									4.1719
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 461,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/19"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"content": "STRIP MACHINE WITH CHANGE PARTS",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.1971,
+									3.831,
+									4.2172,
+									3.8026,
+									4.2172,
+									4.1435,
+									1.1971,
+									4.1719
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 464,
+								"length": 31
+							}
+						],
+						"elements": [
+							"/paragraphs/20"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 2,
+						"content": "DPC273",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.2172,
+									3.8026,
+									5.4536,
+									3.7884,
+									5.4607,
+									4.1293,
+									4.2172,
+									4.1435
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 496,
+								"length": 6
+							}
+						],
+						"elements": [
+							"/paragraphs/21"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 3,
+						"content": "DCP039",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4536,
+									3.7884,
+									7.6138,
+									3.767,
+									7.6138,
+									4.108,
+									5.4607,
+									4.1293
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 503,
+								"length": 6
+							}
+						],
+						"elements": [
+							"/paragraphs/22"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"content": "2.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.721,
+									4.1719,
+									1.1971,
+									4.1719,
+									1.2042,
+									4.5058,
+									0.721,
+									4.5058
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 510,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/23"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"content": "DEFOILER MACHINE",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.1971,
+									4.1719,
+									4.2172,
+									4.1435,
+									4.2243,
+									4.4774,
+									1.2042,
+									4.5058
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 513,
+								"length": 16
+							}
+						],
+						"elements": [
+							"/paragraphs/24"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 2,
+						"content": "NA",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.2172,
+									4.1435,
+									5.4607,
+									4.1293,
+									5.4607,
+									4.4703,
+									4.2243,
+									4.4774
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 530,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/25"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 3,
+						"content": "NA",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4607,
+									4.1293,
+									7.6138,
+									4.108,
+									7.6138,
+									4.4419,
+									5.4607,
+									4.4703
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 533,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/26"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 0,
+						"content": "3.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.721,
+									4.5058,
+									1.2042,
+									4.5058,
+									1.2042,
+									4.8467,
+									0.721,
+									4.8538
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 536,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/27"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 1,
+						"content": "LEAK TEST APPARATUS",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.2042,
+									4.5058,
+									4.2243,
+									4.4774,
+									4.2243,
+									4.8183,
+									1.2042,
+									4.8467
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 539,
+								"length": 19
+							}
+						],
+						"elements": [
+							"/paragraphs/28"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 2,
+						"content": "Dre203 DDC204 OPCRIA",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.2243,
+									4.4774,
+									5.4607,
+									4.4703,
+									5.4607,
+									4.8041,
+									4.2243,
+									4.8183
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 559,
+								"length": 20
+							}
+						],
+						"elements": [
+							"/paragraphs/29"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 3,
+						"content": "DCP035",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4607,
+									4.4703,
+									7.6138,
+									4.4419,
+									7.6138,
+									4.7828,
+									5.4607,
+									4.8041
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 580,
+								"length": 6
+							}
+						],
+						"elements": [
+							"/paragraphs/30"
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 0,
+						"content": "4.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.721,
+									4.8538,
+									1.2042,
+									4.8467,
+									1.2042,
+									5.1877,
+									0.721,
+									5.1877
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 587,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/31"
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 1,
+						"content": ":selected: EPD/COLLATOR",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.2042,
+									4.8467,
+									4.2243,
+									4.8183,
+									4.2243,
+									5.1593,
+									1.2042,
+									5.1877
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 590,
+								"length": 23
+							}
+						],
+						"elements": [
+							"/paragraphs/32"
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 2,
+						"content": "DPC273",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.2243,
+									4.8183,
+									5.4607,
+									4.8041,
+									5.4607,
+									5.1522,
+									4.2243,
+									5.1593
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 614,
+								"length": 6
+							}
+						],
+						"elements": [
+							"/paragraphs/33"
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 3,
+						"content": "DC1028",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4607,
+									4.8041,
+									7.6138,
+									4.7828,
+									7.6138,
+									5.1238,
+									5.4607,
+									5.1522
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 621,
+								"length": 6
+							}
+						],
+						"elements": [
+							"/paragraphs/34"
+						]
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7139,
+							3.2408,
+							7.6153,
+							3.2094,
+							7.6249,
+							5.1538,
+							0.7226,
+							5.1854
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 408,
+						"length": 219
+					}
+				]
+			},
+			{
+				"rowCount": 4,
+				"columnCount": 8,
+				"cells": [
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"columnSpan": 8,
+						"content": "STEREO ISSUANCE & RETRIEVAL",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7289,
+									5.6016,
+									7.6362,
+									5.5304,
+									7.6434,
+									5.7297,
+									0.736,
+									5.7937
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 678,
+								"length": 27
+							}
+						],
+						"elements": [
+							"/paragraphs/36"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"content": "Date of Issue",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.736,
+									5.7937,
+									1.2706,
+									5.7937,
+									1.2706,
+									6.3202,
+									0.736,
+									6.3274
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 706,
+								"length": 13
+							}
+						],
+						"elements": [
+							"/paragraphs/37"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"content": "Issued to (M/C Operator)",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.2706,
+									5.7937,
+									2.2401,
+									5.7866,
+									2.2401,
+									6.3131,
+									1.2706,
+									6.3202
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 720,
+								"length": 24
+							}
+						],
+						"elements": [
+							"/paragraphs/38"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 2,
+						"content": "Qty.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.2401,
+									5.7866,
+									2.8389,
+									5.7795,
+									2.8389,
+									6.306,
+									2.2401,
+									6.3131
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 745,
+								"length": 4
+							}
+						],
+						"elements": [
+							"/paragraphs/39"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 3,
+						"content": "Packing Supervisor (Sign./Date)",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.8389,
+									5.7795,
+									3.7869,
+									5.7724,
+									3.7941,
+									6.2989,
+									2.8389,
+									6.306
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 750,
+								"length": 31
+							}
+						],
+						"elements": [
+							"/paragraphs/40"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 4,
+						"content": "Date of Retrieval",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.7869,
+									5.7724,
+									4.7564,
+									5.7652,
+									4.7635,
+									6.2918,
+									3.7941,
+									6.2989
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 782,
+								"length": 17
+							}
+						],
+						"elements": [
+							"/paragraphs/41"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 5,
+						"content": "Qty.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.7564,
+									5.7652,
+									5.4763,
+									5.751,
+									5.4763,
+									6.2847,
+									4.7635,
+									6.2918
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 800,
+								"length": 4
+							}
+						],
+						"elements": [
+							"/paragraphs/42"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 6,
+						"content": "Retrieval By (M/C Operator)",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4763,
+									5.751,
+									6.6169,
+									5.7368,
+									6.624,
+									6.2775,
+									5.4763,
+									6.2847
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 805,
+								"length": 27
+							}
+						],
+						"elements": [
+							"/paragraphs/43"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 1,
+						"columnIndex": 7,
+						"content": "Packing Supervisor (Sign./Date)",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									6.6169,
+									5.7368,
+									7.6434,
+									5.7297,
+									7.6434,
+									6.2633,
+									6.624,
+									6.2775
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 833,
+								"length": 31
+							}
+						],
+						"elements": [
+							"/paragraphs/44"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"content": "26107121",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.736,
+									6.3274,
+									1.2706,
+									6.3202,
+									1.2778,
+									6.9037,
+									0.736,
+									6.9108
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 865,
+								"length": 8
+							}
+						],
+						"elements": [
+							"/paragraphs/45"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"content": "BGP",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.2706,
+									6.3202,
+									2.2401,
+									6.3131,
+									2.2401,
+									6.8895,
+									1.2778,
+									6.9037
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 874,
+								"length": 3
+							}
+						],
+						"elements": [
+							"/paragraphs/46"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 2,
+						"content": "27",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.2401,
+									6.3131,
+									2.8389,
+									6.306,
+									2.8389,
+									6.8823,
+									2.2401,
+									6.8895
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 878,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/47"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 3,
+						"content": "26107121",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.8389,
+									6.306,
+									3.7941,
+									6.2989,
+									3.7941,
+									6.8752,
+									2.8389,
+									6.8823
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 881,
+								"length": 8
+							}
+						],
+						"elements": [
+							"/paragraphs/48"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 4,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.7941,
+									6.2989,
+									4.7635,
+									6.2918,
+									4.7635,
+									6.8681,
+									3.7941,
+									6.8752
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 5,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.7635,
+									6.2918,
+									5.4763,
+									6.2847,
+									5.4763,
+									6.861,
+									4.7635,
+									6.8681
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 6,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4763,
+									6.2847,
+									6.624,
+									6.2775,
+									6.624,
+									6.8539,
+									5.4763,
+									6.861
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 7,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									6.624,
+									6.2775,
+									7.6434,
+									6.2633,
+									7.6505,
+									6.8468,
+									6.624,
+									6.8539
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 0,
+						"content": "Nb",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.736,
+									6.9108,
+									1.2778,
+									6.9037,
+									1.2778,
+									7.3733,
+									0.736,
+									7.3804
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 890,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/49"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 1,
+						"content": "N/A",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.2778,
+									6.9037,
+									2.2401,
+									6.8895,
+									2.2401,
+									7.3662,
+									1.2778,
+									7.3733
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 893,
+								"length": 3
+							}
+						],
+						"elements": [
+							"/paragraphs/50"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 2,
+						"content": "NW",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.2401,
+									6.8895,
+									2.8389,
+									6.8823,
+									2.8389,
+									7.3591,
+									2.2401,
+									7.3662
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 897,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/51"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 3,
+						"content": "NW",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.8389,
+									6.8823,
+									3.7941,
+									6.8752,
+									3.7941,
+									7.3591,
+									2.8389,
+									7.3591
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 900,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/52"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 4,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.7941,
+									6.8752,
+									4.7635,
+									6.8681,
+									4.7635,
+									7.352,
+									3.7941,
+									7.3591
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 5,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.7635,
+									6.8681,
+									5.4763,
+									6.861,
+									5.4763,
+									7.3448,
+									4.7635,
+									7.352
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 6,
+						"content": "NW\n@28/07/21",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.4763,
+									6.861,
+									6.624,
+									6.8539,
+									6.6311,
+									7.3377,
+									5.4763,
+									7.3448
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 913,
+								"length": 2
+							},
+							{
+								"offset": 903,
+								"length": 9
+							}
+						],
+						"elements": [
+							"/paragraphs/53"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 7,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									6.624,
+									6.8539,
+									7.6505,
+									6.8468,
+									7.6505,
+									7.3377,
+									6.6311,
+									7.3377
+								]
+							}
+						],
+						"spans": []
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.717,
+							5.5651,
+							7.6434,
+							5.5491,
+							7.6523,
+							7.3479,
+							0.7255,
+							7.3633
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 678,
+						"length": 224
+					},
+					{
+						"offset": 913,
+						"length": 2
+					},
+					{
+						"offset": 903,
+						"length": 9
+					}
+				]
+			},
+			{
+				"rowCount": 4,
+				"columnCount": 5,
+				"cells": [
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"content": "Date",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7347,
+									7.5915,
+									1.287,
+									7.5844,
+									1.287,
+									8.1145,
+									0.7419,
+									8.1216
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 932,
+								"length": 4
+							}
+						],
+						"elements": [
+							"/paragraphs/55"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"content": "Qty.",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.287,
+									7.5844,
+									2.1191,
+									7.57,
+									2.1262,
+									8.1073,
+									1.287,
+									8.1145
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 937,
+								"length": 4
+							}
+						],
+						"elements": [
+							"/paragraphs/56"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 2,
+						"content": "Disposal by",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.1191,
+									7.57,
+									3.5608,
+									7.5486,
+									3.568,
+									8.0858,
+									2.1262,
+									8.1073
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 942,
+								"length": 11
+							}
+						],
+						"elements": [
+							"/paragraphs/57"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 3,
+						"content": "Checked by Packing Supervisor (Sign./Date)",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.5608,
+									7.5486,
+									5.3253,
+									7.5342,
+									5.3253,
+									8.0715,
+									3.568,
+									8.0858
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 954,
+								"length": 42
+							}
+						],
+						"elements": [
+							"/paragraphs/58"
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 4,
+						"content": "Verified by QA Supervisor (Sign./Date)",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.3253,
+									7.5342,
+									7.6494,
+									7.5056,
+									7.6565,
+									8.0428,
+									5.3253,
+									8.0715
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 997,
+								"length": 38
+							}
+						],
+						"elements": [
+							"/paragraphs/59"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"content": "8/07/21",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7419,
+									8.1216,
+									1.287,
+									8.1145,
+									1.2798,
+									8.7162,
+									0.7419,
+									8.7233
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1036,
+								"length": 7
+							}
+						],
+						"elements": [
+							"/paragraphs/60"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"content": "27",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.287,
+									8.1145,
+									2.1262,
+									8.1073,
+									2.1334,
+									8.6947,
+									1.2798,
+									8.7162
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1044,
+								"length": 2
+							}
+						],
+						"elements": [
+							"/paragraphs/61"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 2,
+						"content": "CJP",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.1262,
+									8.1073,
+									3.568,
+									8.0858,
+									3.5752,
+									8.6732,
+									2.1334,
+									8.6947
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1047,
+								"length": 3
+							}
+						],
+						"elements": [
+							"/paragraphs/62"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 3,
+						"content": "@ 28/07/21",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.568,
+									8.0858,
+									5.3253,
+									8.0715,
+									5.3325,
+									8.6517,
+									3.5752,
+									8.6732
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1051,
+								"length": 10
+							}
+						],
+						"elements": [
+							"/paragraphs/63"
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 4,
+						"content": "(Recently",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.3253,
+									8.0715,
+									7.6565,
+									8.0428,
+									7.6565,
+									8.6302,
+									5.3325,
+									8.6517
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1062,
+								"length": 9
+							}
+						],
+						"elements": [
+							"/paragraphs/64"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"rowSpan": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									0.7419,
+									8.7233,
+									1.2798,
+									8.7162,
+									1.2798,
+									9.2104,
+									0.7419,
+									9.2248
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.2798,
+									8.7162,
+									2.1334,
+									8.6947,
+									2.1406,
+									8.974,
+									1.2798,
+									9.0027
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.1334,
+									8.6947,
+									3.5752,
+									8.6732,
+									3.5752,
+									8.9454,
+									2.1406,
+									8.974
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 3,
+						"content": "1/2",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.5752,
+									8.6732,
+									5.3325,
+									8.6517,
+									5.3397,
+									8.9239,
+									3.5752,
+									8.9454
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1072,
+								"length": 3
+							}
+						],
+						"elements": [
+							"/paragraphs/65"
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 4,
+						"content": "@28/07/21",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.3325,
+									8.6517,
+									7.6565,
+									8.6302,
+									7.6637,
+									8.8881,
+									5.3397,
+									8.9239
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1076,
+								"length": 9
+							}
+						],
+						"elements": [
+							"/paragraphs/66"
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 1,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.2798,
+									9.0027,
+									2.1406,
+									8.974,
+									2.1406,
+									9.1818,
+									1.2798,
+									9.2104
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									2.1406,
+									8.974,
+									3.5752,
+									8.9454,
+									3.5823,
+									9.1531,
+									2.1406,
+									9.1818
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									3.5752,
+									8.9454,
+									5.3397,
+									8.9239,
+									5.3397,
+									9.1316,
+									3.5823,
+									9.1531
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 4,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									5.3397,
+									8.9239,
+									7.6637,
+									8.8881,
+									7.6637,
+									9.0958,
+									5.3397,
+									9.1316
+								]
+							}
+						],
+						"spans": []
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7328,
+							7.5094,
+							7.7003,
+							7.4686,
+							7.7128,
+							9.1603,
+							0.7442,
+							9.2021
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 932,
+						"length": 153
+					}
+				]
+			}
+		],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 30
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.0565,
+							0.5878,
+							1.6817,
+							0.584,
+							1.6838,
+							0.9102,
+							1.0585,
+							0.9141
+						]
+					}
+				],
+				"content": "CADILA PHARMACEUTICALS LIMITED"
+			},
+			{
+				"spans": [
+					{
+						"offset": 31,
+						"length": 55
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.8129,
+							0.5086,
+							5.4591,
+							0.4821,
+							5.4621,
+							0.7849,
+							2.8159,
+							0.8114
+						]
+					}
+				],
+				"content": "CADILA PHARMACEUTICALS LTD. DHOLKA BATCH PACKING RECORD"
+			},
+			{
+				"spans": [
+					{
+						"offset": 87,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.6126,
+							0.4113,
+							7.5642,
+							0.4126,
+							7.564,
+							0.6648,
+							5.6124,
+							0.6635
+						]
+					}
+				],
+				"content": "MASTER COPY"
+			},
+			{
+				"spans": [
+					{
+						"offset": 99,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							6.7026,
+							0.6547,
+							7.3514,
+							0.6486,
+							7.3526,
+							0.77,
+							6.7038,
+							0.7761
+						]
+					}
+				],
+				"role": "pageNumber",
+				"content": "Page 6 of 53"
+			},
+			{
+				"spans": [
+					{
+						"offset": 112,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7025,
+							1.0604,
+							3.0119,
+							1.039,
+							3.0119,
+							1.3095,
+							0.7025,
+							1.3309
+						]
+					}
+				],
+				"content": "PRODUCT NAME: ACILOC 300"
+			},
+			{
+				"spans": [
+					{
+						"offset": 137,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.0585,
+							1.0176,
+							6.2452,
+							1.0034,
+							6.2452,
+							1.281,
+							5.0585,
+							1.2953
+						]
+					}
+				],
+				"content": "BATCH NO .:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 149,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							6.2452,
+							1.0034,
+							7.3963,
+							1.0034,
+							7.3963,
+							1.2668,
+							6.2452,
+							1.281
+						]
+					}
+				],
+				"content": "LO21076"
+			},
+			{
+				"spans": [
+					{
+						"offset": 157,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7025,
+							1.3309,
+							3.0119,
+							1.3095,
+							3.019,
+							1.5373,
+							0.7025,
+							1.5515
+						]
+					}
+				],
+				"content": "BPR No .: CP/DDDT303/MF/01/00/D"
+			},
+			{
+				"spans": [
+					{
+						"offset": 189,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							3.0119,
+							1.3095,
+							5.0585,
+							1.2953,
+							5.0585,
+							1.5159,
+							3.019,
+							1.5373
+						]
+					}
+				],
+				"content": "MFG. DATE: JUL 2021"
+			},
+			{
+				"spans": [
+					{
+						"offset": 209,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.0585,
+							1.2953,
+							6.2452,
+							1.281,
+							6.2452,
+							1.5088,
+							5.0585,
+							1.5159
+						]
+					}
+				],
+				"content": "EXP. DATE:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 220,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							6.2452,
+							1.281,
+							7.3963,
+							1.2668,
+							7.4035,
+							1.4875,
+							6.2452,
+							1.5088
+						]
+					}
+				],
+				"content": "DEC 2023"
+			},
+			{
+				"spans": [
+					{
+						"offset": 229,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.7068,
+							1.6676,
+							5.6953,
+							1.6336,
+							5.697,
+							1.7871,
+							2.7086,
+							1.8211
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "5. BRIEF PACKAGING INSTRUCTIONS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 261,
+						"length": 27
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7073,
+							1.8806,
+							2.2966,
+							1.8747,
+							2.2972,
+							2.0302,
+							0.7079,
+							2.0361
+						]
+					}
+				],
+				"content": "1. Pack 20 tablets in strip"
+			},
+			{
+				"spans": [
+					{
+						"offset": 289,
+						"length": 62
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.6971,
+							2.3893,
+							5.0633,
+							2.3337,
+							5.0653,
+							2.4939,
+							0.6991,
+							2.5494
+						]
+					}
+				],
+				"content": "Remarks: Strip Size: 112 x 116.5 mm NEW LAYOUT NO .: RE - 7620"
+			},
+			{
+				"spans": [
+					{
+						"offset": 352,
+						"length": 55
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.5885,
+							2.8921,
+							6.8317,
+							2.8336,
+							6.8336,
+							3.0042,
+							1.5904,
+							3.0627
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "5.1 LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING"
+			},
+			{
+				"spans": [
+					{
+						"offset": 408,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7139,
+							3.2556,
+							1.1971,
+							3.2485,
+							1.1971,
+							3.831,
+							0.7139,
+							3.8381
+						]
+					}
+				],
+				"content": "SR. NO."
+			},
+			{
+				"spans": [
+					{
+						"offset": 416,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.1971,
+							3.2485,
+							4.2172,
+							3.2272,
+							4.2172,
+							3.8026,
+							1.1971,
+							3.831
+						]
+					}
+				],
+				"content": "MACHINE"
+			},
+			{
+				"spans": [
+					{
+						"offset": 424,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.2172,
+							3.2272,
+							5.4536,
+							3.213,
+							5.4536,
+							3.7884,
+							4.2172,
+							3.8026
+						]
+					}
+				],
+				"content": "ID. NO."
+			},
+			{
+				"spans": [
+					{
+						"offset": 432,
+						"length": 28
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.4536,
+							3.213,
+							7.6067,
+							3.1917,
+							7.6138,
+							3.767,
+							5.4536,
+							3.7884
+						]
+					}
+				],
+				"content": "CLEANING & OPERATING SOP NO."
+			},
+			{
+				"spans": [
+					{
+						"offset": 461,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7139,
+							3.8381,
+							1.1971,
+							3.831,
+							1.1971,
+							4.1719,
+							0.721,
+							4.1719
+						]
+					}
+				],
+				"content": "1."
+			},
+			{
+				"spans": [
+					{
+						"offset": 464,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.1971,
+							3.831,
+							4.2172,
+							3.8026,
+							4.2172,
+							4.1435,
+							1.1971,
+							4.1719
+						]
+					}
+				],
+				"content": "STRIP MACHINE WITH CHANGE PARTS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 496,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.2172,
+							3.8026,
+							5.4536,
+							3.7884,
+							5.4607,
+							4.1293,
+							4.2172,
+							4.1435
+						]
+					}
+				],
+				"content": "DPC273"
+			},
+			{
+				"spans": [
+					{
+						"offset": 503,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.4536,
+							3.7884,
+							7.6138,
+							3.767,
+							7.6138,
+							4.108,
+							5.4607,
+							4.1293
+						]
+					}
+				],
+				"content": "DCP039"
+			},
+			{
+				"spans": [
+					{
+						"offset": 510,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.721,
+							4.1719,
+							1.1971,
+							4.1719,
+							1.2042,
+							4.5058,
+							0.721,
+							4.5058
+						]
+					}
+				],
+				"content": "2."
+			},
+			{
+				"spans": [
+					{
+						"offset": 513,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.1971,
+							4.1719,
+							4.2172,
+							4.1435,
+							4.2243,
+							4.4774,
+							1.2042,
+							4.5058
+						]
+					}
+				],
+				"content": "DEFOILER MACHINE"
+			},
+			{
+				"spans": [
+					{
+						"offset": 530,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.2172,
+							4.1435,
+							5.4607,
+							4.1293,
+							5.4607,
+							4.4703,
+							4.2243,
+							4.4774
+						]
+					}
+				],
+				"content": "NA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 533,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.4607,
+							4.1293,
+							7.6138,
+							4.108,
+							7.6138,
+							4.4419,
+							5.4607,
+							4.4703
+						]
+					}
+				],
+				"content": "NA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 536,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.721,
+							4.5058,
+							1.2042,
+							4.5058,
+							1.2042,
+							4.8467,
+							0.721,
+							4.8538
+						]
+					}
+				],
+				"content": "3."
+			},
+			{
+				"spans": [
+					{
+						"offset": 539,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.2042,
+							4.5058,
+							4.2243,
+							4.4774,
+							4.2243,
+							4.8183,
+							1.2042,
+							4.8467
+						]
+					}
+				],
+				"content": "LEAK TEST APPARATUS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 559,
+						"length": 20
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.2243,
+							4.4774,
+							5.4607,
+							4.4703,
+							5.4607,
+							4.8041,
+							4.2243,
+							4.8183
+						]
+					}
+				],
+				"content": "Dre203 DDC204 OPCRIA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 580,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.4607,
+							4.4703,
+							7.6138,
+							4.4419,
+							7.6138,
+							4.7828,
+							5.4607,
+							4.8041
+						]
+					}
+				],
+				"content": "DCP035"
+			},
+			{
+				"spans": [
+					{
+						"offset": 587,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.721,
+							4.8538,
+							1.2042,
+							4.8467,
+							1.2042,
+							5.1877,
+							0.721,
+							5.1877
+						]
+					}
+				],
+				"content": "4."
+			},
+			{
+				"spans": [
+					{
+						"offset": 590,
+						"length": 23
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.2042,
+							4.8467,
+							4.2243,
+							4.8183,
+							4.2243,
+							5.1593,
+							1.2042,
+							5.1877
+						]
+					}
+				],
+				"content": ":selected: EPD/COLLATOR"
+			},
+			{
+				"spans": [
+					{
+						"offset": 614,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.2243,
+							4.8183,
+							5.4607,
+							4.8041,
+							5.4607,
+							5.1522,
+							4.2243,
+							5.1593
+						]
+					}
+				],
+				"content": "DPC273"
+			},
+			{
+				"spans": [
+					{
+						"offset": 621,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.4607,
+							4.8041,
+							7.6138,
+							4.7828,
+							7.6138,
+							5.1238,
+							5.4607,
+							5.1522
+						]
+					}
+				],
+				"content": "DC1028"
+			},
+			{
+				"spans": [
+					{
+						"offset": 628,
+						"length": 49
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.036,
+							5.3045,
+							6.4091,
+							5.2757,
+							6.4102,
+							5.4425,
+							2.0371,
+							5.4713
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "5.2 STEREO RECONCILIATION (AS PER RESPECTIVE SOP)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 678,
+						"length": 27
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7289,
+							5.6016,
+							7.6362,
+							5.5304,
+							7.6434,
+							5.7297,
+							0.736,
+							5.7937
+						]
+					}
+				],
+				"content": "STEREO ISSUANCE & RETRIEVAL"
+			},
+			{
+				"spans": [
+					{
+						"offset": 706,
+						"length": 13
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.736,
+							5.7937,
+							1.2706,
+							5.7937,
+							1.2706,
+							6.3202,
+							0.736,
+							6.3274
+						]
+					}
+				],
+				"content": "Date of Issue"
+			},
+			{
+				"spans": [
+					{
+						"offset": 720,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.2706,
+							5.7937,
+							2.2401,
+							5.7866,
+							2.2401,
+							6.3131,
+							1.2706,
+							6.3202
+						]
+					}
+				],
+				"content": "Issued to (M/C Operator)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 745,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.2401,
+							5.7866,
+							2.8389,
+							5.7795,
+							2.8389,
+							6.306,
+							2.2401,
+							6.3131
+						]
+					}
+				],
+				"content": "Qty."
+			},
+			{
+				"spans": [
+					{
+						"offset": 750,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.8389,
+							5.7795,
+							3.7869,
+							5.7724,
+							3.7941,
+							6.2989,
+							2.8389,
+							6.306
+						]
+					}
+				],
+				"content": "Packing Supervisor (Sign./Date)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 782,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							3.7869,
+							5.7724,
+							4.7564,
+							5.7652,
+							4.7635,
+							6.2918,
+							3.7941,
+							6.2989
+						]
+					}
+				],
+				"content": "Date of Retrieval"
+			},
+			{
+				"spans": [
+					{
+						"offset": 800,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.7564,
+							5.7652,
+							5.4763,
+							5.751,
+							5.4763,
+							6.2847,
+							4.7635,
+							6.2918
+						]
+					}
+				],
+				"content": "Qty."
+			},
+			{
+				"spans": [
+					{
+						"offset": 805,
+						"length": 27
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.4763,
+							5.751,
+							6.6169,
+							5.7368,
+							6.624,
+							6.2775,
+							5.4763,
+							6.2847
+						]
+					}
+				],
+				"content": "Retrieval By (M/C Operator)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 833,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							6.6169,
+							5.7368,
+							7.6434,
+							5.7297,
+							7.6434,
+							6.2633,
+							6.624,
+							6.2775
+						]
+					}
+				],
+				"content": "Packing Supervisor (Sign./Date)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 865,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.736,
+							6.3274,
+							1.2706,
+							6.3202,
+							1.2778,
+							6.9037,
+							0.736,
+							6.9108
+						]
+					}
+				],
+				"content": "26107121"
+			},
+			{
+				"spans": [
+					{
+						"offset": 874,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.2706,
+							6.3202,
+							2.2401,
+							6.3131,
+							2.2401,
+							6.8895,
+							1.2778,
+							6.9037
+						]
+					}
+				],
+				"content": "BGP"
+			},
+			{
+				"spans": [
+					{
+						"offset": 878,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.2401,
+							6.3131,
+							2.8389,
+							6.306,
+							2.8389,
+							6.8823,
+							2.2401,
+							6.8895
+						]
+					}
+				],
+				"content": "27"
+			},
+			{
+				"spans": [
+					{
+						"offset": 881,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.8389,
+							6.306,
+							3.7941,
+							6.2989,
+							3.7941,
+							6.8752,
+							2.8389,
+							6.8823
+						]
+					}
+				],
+				"content": "26107121"
+			},
+			{
+				"spans": [
+					{
+						"offset": 890,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.736,
+							6.9108,
+							1.2778,
+							6.9037,
+							1.2778,
+							7.3733,
+							0.736,
+							7.3804
+						]
+					}
+				],
+				"content": "Nb"
+			},
+			{
+				"spans": [
+					{
+						"offset": 893,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.2778,
+							6.9037,
+							2.2401,
+							6.8895,
+							2.2401,
+							7.3662,
+							1.2778,
+							7.3733
+						]
+					}
+				],
+				"content": "N/A"
+			},
+			{
+				"spans": [
+					{
+						"offset": 897,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.2401,
+							6.8895,
+							2.8389,
+							6.8823,
+							2.8389,
+							7.3591,
+							2.2401,
+							7.3662
+						]
+					}
+				],
+				"content": "NW"
+			},
+			{
+				"spans": [
+					{
+						"offset": 900,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.8389,
+							6.8823,
+							3.7941,
+							6.8752,
+							3.7941,
+							7.3591,
+							2.8389,
+							7.3591
+						]
+					}
+				],
+				"content": "NW"
+			},
+			{
+				"spans": [
+					{
+						"offset": 913,
+						"length": 2
+					},
+					{
+						"offset": 903,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.4763,
+							6.861,
+							6.624,
+							6.8539,
+							6.6311,
+							7.3377,
+							5.4763,
+							7.3448
+						]
+					}
+				],
+				"content": "NW\n@28/07/21"
+			},
+			{
+				"spans": [
+					{
+						"offset": 916,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							3.482,
+							7.3943,
+							4.8879,
+							7.3859,
+							4.8888,
+							7.5346,
+							3.4829,
+							7.5431
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "STEREO DISPOSAL"
+			},
+			{
+				"spans": [
+					{
+						"offset": 932,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7347,
+							7.5915,
+							1.287,
+							7.5844,
+							1.287,
+							8.1145,
+							0.7419,
+							8.1216
+						]
+					}
+				],
+				"content": "Date"
+			},
+			{
+				"spans": [
+					{
+						"offset": 937,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.287,
+							7.5844,
+							2.1191,
+							7.57,
+							2.1262,
+							8.1073,
+							1.287,
+							8.1145
+						]
+					}
+				],
+				"content": "Qty."
+			},
+			{
+				"spans": [
+					{
+						"offset": 942,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.1191,
+							7.57,
+							3.5608,
+							7.5486,
+							3.568,
+							8.0858,
+							2.1262,
+							8.1073
+						]
+					}
+				],
+				"content": "Disposal by"
+			},
+			{
+				"spans": [
+					{
+						"offset": 954,
+						"length": 42
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							3.5608,
+							7.5486,
+							5.3253,
+							7.5342,
+							5.3253,
+							8.0715,
+							3.568,
+							8.0858
+						]
+					}
+				],
+				"content": "Checked by Packing Supervisor (Sign./Date)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 997,
+						"length": 38
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.3253,
+							7.5342,
+							7.6494,
+							7.5056,
+							7.6565,
+							8.0428,
+							5.3253,
+							8.0715
+						]
+					}
+				],
+				"content": "Verified by QA Supervisor (Sign./Date)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1036,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7419,
+							8.1216,
+							1.287,
+							8.1145,
+							1.2798,
+							8.7162,
+							0.7419,
+							8.7233
+						]
+					}
+				],
+				"content": "8/07/21"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1044,
+						"length": 2
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							1.287,
+							8.1145,
+							2.1262,
+							8.1073,
+							2.1334,
+							8.6947,
+							1.2798,
+							8.7162
+						]
+					}
+				],
+				"content": "27"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1047,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.1262,
+							8.1073,
+							3.568,
+							8.0858,
+							3.5752,
+							8.6732,
+							2.1334,
+							8.6947
+						]
+					}
+				],
+				"content": "CJP"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1051,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							3.568,
+							8.0858,
+							5.3253,
+							8.0715,
+							5.3325,
+							8.6517,
+							3.5752,
+							8.6732
+						]
+					}
+				],
+				"content": "@ 28/07/21"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1062,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.3253,
+							8.0715,
+							7.6565,
+							8.0428,
+							7.6565,
+							8.6302,
+							5.3325,
+							8.6517
+						]
+					}
+				],
+				"content": "(Recently"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1072,
+						"length": 3
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							3.5752,
+							8.6732,
+							5.3325,
+							8.6517,
+							5.3397,
+							8.9239,
+							3.5752,
+							8.9454
+						]
+					}
+				],
+				"content": "1/2"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1076,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.3325,
+							8.6517,
+							7.6565,
+							8.6302,
+							7.6637,
+							8.8881,
+							5.3397,
+							8.9239
+						]
+					}
+				],
+				"content": "@28/07/21"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1086,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.5823,
+							8.4525,
+							0.6939,
+							8.4408,
+							0.7104,
+							8.5981,
+							0.5987,
+							8.6098
+						]
+					}
+				],
+				"content": "2"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1088,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.8159,
+							10.166,
+							1.5018,
+							10.1654,
+							1.502,
+							10.3143,
+							0.816,
+							10.3149
+						]
+					}
+				],
+				"content": "Prepared By"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1100,
+						"length": 1
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.4227,
+							10.301,
+							2.7899,
+							10.2205,
+							2.8473,
+							10.4821,
+							2.4801,
+							10.5627
+						]
+					}
+				],
+				"content": "A"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1102,
+						"length": 7
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							2.5865,
+							10.4345,
+							3.4603,
+							10.3346,
+							3.4813,
+							10.6567,
+							2.6252,
+							10.7509
+						]
+					}
+				],
+				"content": "23/02/1"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1110,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.2927,
+							10.1269,
+							5.043,
+							10.1244,
+							5.0435,
+							10.2765,
+							4.2932,
+							10.2791
+						]
+					}
+				],
+				"content": "Approved By"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1122,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							5.2645,
+							10.456,
+							6.001,
+							10.2413,
+							6.1231,
+							10.6595,
+							5.3865,
+							10.8742
+						]
+					}
+				],
+				"content": "phs 02/03/4"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1134,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.8272,
+							10.7588,
+							1.8959,
+							10.7466,
+							1.8977,
+							10.9004,
+							0.829,
+							10.9126
+						]
+					}
+				],
+				"content": "Sign & Date (TTD)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1152,
+						"length": 16
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							4.2968,
+							10.7361,
+							5.3097,
+							10.731,
+							5.3104,
+							10.8861,
+							4.2975,
+							10.8913
+						]
+					}
+				],
+				"content": "Sign & Date (QA)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1169,
+						"length": 23
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7548,
+							10.9651,
+							2.0055,
+							10.9541,
+							2.0065,
+							11.0676,
+							0.7558,
+							11.0786
+						]
+					}
+				],
+				"role": "pageFooter",
+				"content": "FORM NO. : FTT001-03/04"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1193,
+						"length": 23
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							6.0597,
+							10.9494,
+							7.8894,
+							10.9408,
+							7.8917,
+							11.4459,
+							6.0621,
+							11.4545
+						]
+					}
+				],
+				"content": "CERTIFIED COPY @10/07/4"
+			}
+		],
+		"styles": [
+			{
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 496,
+						"length": 13
+					},
+					{
+						"offset": 530,
+						"length": 5
+					},
+					{
+						"offset": 559,
+						"length": 27
+					},
+					{
+						"offset": 614,
+						"length": 13
+					},
+					{
+						"offset": 865,
+						"length": 27
+					},
+					{
+						"offset": 897,
+						"length": 18
+					},
+					{
+						"offset": 1036,
+						"length": 51
+					},
+					{
+						"offset": 1100,
+						"length": 9
+					},
+					{
+						"offset": 1122,
+						"length": 11
+					},
+					{
+						"offset": 1208,
+						"length": 8
+					}
+				],
+				"isHandwritten": true
+			},
+			{
+				"confidence": 0.9,
+				"spans": [
+					{
+						"offset": 893,
+						"length": 3
+					}
+				],
+				"isHandwritten": true
+			}
+		],
+		"documents": [
+			{
+				"docType": "cadila3",
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0,
+							0,
+							8.2639,
+							0,
+							8.2639,
+							11.6806,
+							0,
+							11.6806
+						]
+					}
+				],
+				"fields": {
+					"BPR NO": {
+						"type": "string",
+						"valueString": "CP/DDDT303/MF/01/00/D",
+						"content": "CP/DDDT303/MF/01/00/D",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.3571,
+									1.3713,
+									2.8764,
+									1.3562,
+									2.8777,
+									1.489,
+									1.3584,
+									1.504
+								]
+							}
+						],
+						"confidence": 0.929,
+						"spans": [
+							{
+								"offset": 167,
+								"length": 21
+							}
+						]
+					},
+					"PRODUCT NAME": {
+						"type": "string",
+						"valueString": "ACILOC 300",
+						"content": "ACILOC 300",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.9553,
+									1.1235,
+									2.7337,
+									1.1161,
+									2.7349,
+									1.2464,
+									1.9565,
+									1.2538
+								]
+							}
+						],
+						"confidence": 0.97,
+						"spans": [
+							{
+								"offset": 126,
+								"length": 10
+							}
+						]
+					},
+					"COMPANY NAME": {
+						"type": "string",
+						"valueString": "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING",
+						"content": "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									1.841,
+									2.8889,
+									6.837,
+									2.833,
+									6.839,
+									3.0071,
+									1.8429,
+									3.0631
+								]
+							}
+						],
+						"confidence": 0.324,
+						"spans": [
+							{
+								"offset": 356,
+								"length": 51
+							}
+						]
+					},
+					"MFG DATE": {
+						"type": "string",
+						"valueString": "JUL 2021",
+						"content": "JUL 2021",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									4.1151,
+									1.3412,
+									4.7883,
+									1.3381,
+									4.789,
+									1.4827,
+									4.1158,
+									1.4858
+								]
+							}
+						],
+						"confidence": 0.977,
+						"spans": [
+							{
+								"offset": 200,
+								"length": 8
+							}
+						]
+					},
+					"BATCH NO": {
+						"type": "string",
+						"valueString": "LO21076",
+						"content": "LO21076",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									6.3661,
+									1.0725,
+									7.0254,
+									1.0708,
+									7.0258,
+									1.2242,
+									6.3665,
+									1.2258
+								]
+							}
+						],
+						"confidence": 0.981,
+						"spans": [
+							{
+								"offset": 149,
+								"length": 7
+							}
+						]
+					},
+					"EXP DATE": {
+						"type": "string",
+						"valueString": "DEC 2023",
+						"content": "DEC 2023",
+						"boundingRegions": [
+							{
+								"pageNumber": 4,
+								"polygon": [
+									6.3377,
+									1.3143,
+									7.0882,
+									1.314,
+									7.0883,
+									1.4594,
+									6.3378,
+									1.4597
+								]
+							}
+						],
+						"confidence": 0.972,
+						"spans": [
+							{
+								"offset": 220,
+								"length": 8
+							}
+						]
+					},
+					"MASTER PACKAGING DOCKET DETAILS": {
+						"type": "array",
+						"confidence": 0.946
+					},
+					"BATCH PACKING RECORD DETAILS": {
+						"type": "array",
+						"confidence": 0.939
+					},
+					"BATCH PACKING DETAILS": {
+						"type": "array",
+						"confidence": 0.946
+					},
+					"BATCH DETAILS": {
+						"type": "array",
+						"confidence": 0.946
+					},
+					"PACKAGING MATERIALS": {
+						"type": "array",
+						"confidence": 0.942
+					},
+					"BRIEF PACKAGING INSTRUCTION": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"COLUMN1": {
+										"type": "string",
+										"valueString": "1.",
+										"content": "1.",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.7077,
+													1.8841,
+													0.8175,
+													1.8844,
+													0.8171,
+													2.0361,
+													0.7073,
+													2.0358
+												]
+											}
+										],
+										"confidence": 0.926,
+										"spans": [
+											{
+												"offset": 261,
+												"length": 2
+											}
+										]
+									},
+									"COLUMN2": {
+										"type": "string",
+										"valueString": "Pack 20 tablets in strip",
+										"content": "Pack 20 tablets in strip",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.9481,
+													1.8813,
+													2.3,
+													1.8746,
+													2.3008,
+													2.0326,
+													0.9489,
+													2.0392
+												]
+											}
+										],
+										"confidence": 0.895,
+										"spans": [
+											{
+												"offset": 264,
+												"length": 24
+											}
+										]
+									}
+								},
+								"confidence": 0.926
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"COLUMN1": {
+										"type": "string",
+										"valueString": "Remarks:",
+										"content": "Remarks:",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.6977,
+													2.3879,
+													1.3254,
+													2.3824,
+													1.3268,
+													2.5436,
+													0.6991,
+													2.5491
+												]
+											}
+										],
+										"confidence": 0.896,
+										"spans": [
+											{
+												"offset": 289,
+												"length": 8
+											}
+										]
+									},
+									"COLUMN2": {
+										"type": "string",
+										"valueString": "Strip Size: 112 x 116.5 mm NEW LAYOUT NO .: RE - 7620",
+										"content": "Strip Size: 112 x 116.5 mm NEW LAYOUT NO .: RE - 7620",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.41,
+													2.3791,
+													5.0679,
+													2.3365,
+													5.0698,
+													2.5,
+													1.4119,
+													2.5427
+												]
+											}
+										],
+										"confidence": 0.542,
+										"spans": [
+											{
+												"offset": 298,
+												"length": 53
+											}
+										]
+									}
+								},
+								"confidence": 0.509
+							}
+						],
+						"confidence": 0.606
+					},
+					"LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"SR NO": {
+										"type": "string",
+										"valueString": "1.",
+										"content": "1.",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.912,
+													3.9494,
+													1.0218,
+													3.9496,
+													1.0216,
+													4.0777,
+													0.9118,
+													4.0775
+												]
+											}
+										],
+										"confidence": 0.924,
+										"spans": [
+											{
+												"offset": 461,
+												"length": 2
+											}
+										]
+									},
+									"MACHINE": {
+										"type": "string",
+										"valueString": "STRIP MACHINE WITH CHANGE PARTS",
+										"content": "STRIP MACHINE WITH CHANGE PARTS",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.2638,
+													3.9215,
+													3.9836,
+													3.9002,
+													3.9849,
+													4.0616,
+													1.2651,
+													4.0829
+												]
+											}
+										],
+										"confidence": 0.737,
+										"spans": [
+											{
+												"offset": 464,
+												"length": 31
+											}
+										]
+									},
+									"ID NO": {
+										"type": "string",
+										"valueString": "DPC273",
+										"content": "DPC273",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													4.3063,
+													3.8858,
+													5.2163,
+													3.8823,
+													5.217,
+													4.057,
+													4.307,
+													4.0605
+												]
+											}
+										],
+										"confidence": 0.89,
+										"spans": [
+											{
+												"offset": 496,
+												"length": 6
+											}
+										]
+									},
+									"CLEANING & OPERATING SOP NO": {
+										"type": "string",
+										"valueString": "DCP039",
+										"content": "DCP039",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													5.8234,
+													3.8723,
+													6.683,
+													3.8706,
+													6.6833,
+													4.0462,
+													5.8237,
+													4.0478
+												]
+											}
+										],
+										"confidence": 0.909,
+										"spans": [
+											{
+												"offset": 503,
+												"length": 6
+											}
+										]
+									}
+								},
+								"confidence": 0.792
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"SR NO": {
+										"type": "string",
+										"valueString": "2.",
+										"content": "2.",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.898,
+													4.2916,
+													1.0216,
+													4.2903,
+													1.0229,
+													4.4155,
+													0.8993,
+													4.4168
+												]
+											}
+										],
+										"confidence": 0.937,
+										"spans": [
+											{
+												"offset": 510,
+												"length": 2
+											}
+										]
+									},
+									"MACHINE": {
+										"type": "string",
+										"valueString": "DEFOILER MACHINE",
+										"content": "DEFOILER MACHINE",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.2628,
+													4.2717,
+													2.728,
+													4.2603,
+													2.7291,
+													4.4079,
+													1.2639,
+													4.4193
+												]
+											}
+										],
+										"confidence": 0.888,
+										"spans": [
+											{
+												"offset": 513,
+												"length": 16
+											}
+										]
+									},
+									"ID NO": {
+										"type": "string",
+										"valueString": "NA",
+										"content": "NA",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													4.539,
+													4.2645,
+													4.9252,
+													4.2604,
+													4.9266,
+													4.3913,
+													4.5404,
+													4.3954
+												]
+											}
+										],
+										"confidence": 0.815,
+										"spans": [
+											{
+												"offset": 530,
+												"length": 2
+											}
+										]
+									},
+									"CLEANING & OPERATING SOP NO": {
+										"type": "string",
+										"valueString": "NA",
+										"content": "NA",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													5.9969,
+													4.2567,
+													6.3292,
+													4.2565,
+													6.3293,
+													4.4007,
+													5.997,
+													4.4009
+												]
+											}
+										],
+										"confidence": 0.956,
+										"spans": [
+											{
+												"offset": 533,
+												"length": 2
+											}
+										]
+									}
+								},
+								"confidence": 0.758
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"SR NO": {
+										"type": "string",
+										"valueString": "3.",
+										"content": "3.",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.9026,
+													4.6277,
+													1.0273,
+													4.6265,
+													1.0285,
+													4.7547,
+													0.9038,
+													4.7558
+												]
+											}
+										],
+										"confidence": 0.918,
+										"spans": [
+											{
+												"offset": 536,
+												"length": 2
+											}
+										]
+									},
+									"MACHINE": {
+										"type": "string",
+										"valueString": "LEAK TEST APPARATUS",
+										"content": "LEAK TEST APPARATUS",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.2662,
+													4.6086,
+													2.9677,
+													4.5929,
+													2.9691,
+													4.7426,
+													1.2676,
+													4.7583
+												]
+											}
+										],
+										"confidence": 0.796,
+										"spans": [
+											{
+												"offset": 539,
+												"length": 19
+											}
+										]
+									},
+									"ID NO": {
+										"type": "string",
+										"valueString": "Dre203 DDC204 OPCRIA",
+										"content": "Dre203 DDC204 OPCRIA",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													4.225,
+													4.4803,
+													5.3365,
+													4.4642,
+													5.3417,
+													4.8237,
+													4.2303,
+													4.8398
+												]
+											}
+										],
+										"confidence": 0.205,
+										"spans": [
+											{
+												"offset": 559,
+												"length": 20
+											}
+										]
+									},
+									"CLEANING & OPERATING SOP NO": {
+										"type": "string",
+										"valueString": "DCP035",
+										"content": "DCP035",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													5.806,
+													4.5533,
+													6.7058,
+													4.5499,
+													6.7065,
+													4.7456,
+													5.8067,
+													4.749
+												]
+											}
+										],
+										"confidence": 0.884,
+										"spans": [
+											{
+												"offset": 580,
+												"length": 6
+											}
+										]
+									}
+								},
+								"confidence": 0.473
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"SR NO": {
+										"type": "string",
+										"valueString": "4.",
+										"content": "4.",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.9065,
+													4.9687,
+													1.033,
+													4.9671,
+													1.0346,
+													5.0938,
+													0.9081,
+													5.0954
+												]
+											}
+										],
+										"confidence": 0.923,
+										"spans": [
+											{
+												"offset": 587,
+												"length": 2
+											}
+										]
+									},
+									"MACHINE": {
+										"type": "string",
+										"valueString": "EPD/COLLATOR",
+										"content": "EPD/COLLATOR",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.265,
+													4.9456,
+													2.4027,
+													4.9392,
+													2.4035,
+													5.0907,
+													1.2659,
+													5.0971
+												]
+											}
+										],
+										"confidence": 0.641,
+										"spans": [
+											{
+												"offset": 601,
+												"length": 12
+											}
+										]
+									},
+									"ID NO": {
+										"type": "string",
+										"valueString": "DPC273",
+										"content": "DPC273",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													4.3489,
+													4.9267,
+													5.2448,
+													4.919,
+													5.2462,
+													5.0817,
+													4.3503,
+													5.0894
+												]
+											}
+										],
+										"confidence": 0.836,
+										"spans": [
+											{
+												"offset": 614,
+												"length": 6
+											}
+										]
+									},
+									"CLEANING & OPERATING SOP NO": {
+										"type": "string",
+										"valueString": "DC1028",
+										"content": "DC1028",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													5.9261,
+													4.8833,
+													6.8542,
+													4.8832,
+													6.8542,
+													5.0568,
+													5.9261,
+													5.0569
+												]
+											}
+										],
+										"confidence": 0.688,
+										"spans": [
+											{
+												"offset": 621,
+												"length": 6
+											}
+										]
+									}
+								},
+								"confidence": 0.63
+							}
+						],
+						"confidence": 0.561
+					},
+					"STEREO ISSUENCE": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Date of Issue": {
+										"type": "string",
+										"valueString": "26107121",
+										"content": "26107121",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.6259,
+													6.7074,
+													1.2429,
+													6.3479,
+													1.3259,
+													6.4903,
+													0.7089,
+													6.8498
+												]
+											}
+										],
+										"confidence": 0.649,
+										"spans": [
+											{
+												"offset": 865,
+												"length": 8
+											}
+										]
+									},
+									"Issued to(M/C Operator)": {
+										"type": "string",
+										"valueString": "BGP",
+										"content": "BGP",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.3792,
+													6.5148,
+													1.9747,
+													6.5013,
+													1.9789,
+													6.6866,
+													1.3834,
+													6.7001
+												]
+											}
+										],
+										"confidence": 0.747,
+										"spans": [
+											{
+												"offset": 874,
+												"length": 3
+											}
+										]
+									},
+									"Qty": {
+										"type": "string",
+										"valueString": "27",
+										"content": "27",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													2.3187,
+													6.5139,
+													2.6253,
+													6.4947,
+													2.6359,
+													6.6643,
+													2.3293,
+													6.6836
+												]
+											}
+										],
+										"confidence": 0.729,
+										"spans": [
+											{
+												"offset": 878,
+												"length": 2
+											}
+										]
+									},
+									"Packing Supervisor(Sign/Date)": {
+										"type": "string",
+										"valueString": "26107121",
+										"content": "26107121",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													2.9245,
+													6.6089,
+													3.7607,
+													6.5497,
+													3.7725,
+													6.7163,
+													2.9363,
+													6.7755
+												]
+											}
+										],
+										"confidence": 0.715,
+										"spans": [
+											{
+												"offset": 881,
+												"length": 8
+											}
+										]
+									}
+								},
+								"confidence": 0.642
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Date of Issue": {
+										"type": "string",
+										"valueString": "Nb",
+										"content": "Nb",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.8498,
+													7.2166,
+													1.2439,
+													7.1211,
+													1.2836,
+													7.2847,
+													0.8895,
+													7.3802
+												]
+											}
+										],
+										"confidence": 0.468,
+										"spans": [
+											{
+												"offset": 890,
+												"length": 2
+											}
+										]
+									},
+									"Issued to(M/C Operator)": {
+										"type": "string",
+										"valueString": "N/A",
+										"content": "N/A",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.5417,
+													7.1433,
+													2.0055,
+													7.0172,
+													2.0464,
+													7.1674,
+													1.5825,
+													7.2935
+												]
+											}
+										],
+										"confidence": 0.616,
+										"spans": [
+											{
+												"offset": 893,
+												"length": 3
+											}
+										]
+									},
+									"Qty": {
+										"type": "string",
+										"valueString": "NW",
+										"content": "NW",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													2.2988,
+													7.0976,
+													2.6651,
+													7.0813,
+													2.6721,
+													7.2384,
+													2.3058,
+													7.2546
+												]
+											}
+										],
+										"confidence": 0.429,
+										"spans": [
+											{
+												"offset": 897,
+												"length": 2
+											}
+										]
+									},
+									"Packing Supervisor(Sign/Date)": {
+										"type": "string",
+										"valueString": "NW",
+										"content": "NW",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													3.2329,
+													7.0762,
+													3.6183,
+													7.0599,
+													3.6252,
+													7.2233,
+													3.2398,
+													7.2396
+												]
+											}
+										],
+										"confidence": 0.49,
+										"spans": [
+											{
+												"offset": 900,
+												"length": 2
+											}
+										]
+									}
+								},
+								"confidence": 0.429
+							}
+						],
+						"confidence": 0.514
+					},
+					"STEREO RETRIEVAL": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Qty": {
+										"type": "string",
+										"valueString": "NW",
+										"content": "NW",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													5.837,
+													6.8774,
+													6.2435,
+													6.8792,
+													6.2428,
+													7.0266,
+													5.8363,
+													7.0248
+												]
+											}
+										],
+										"confidence": 0.367,
+										"spans": [
+											{
+												"offset": 913,
+												"length": 2
+											}
+										]
+									},
+									"Date of Retrieval": {
+										"type": "string",
+										"confidence": 0.947
+									},
+									"Retrieval By(M/C Operator)": {
+										"type": "string",
+										"confidence": 0.946
+									},
+									"Packing Supervisor(Sign/Date)": {
+										"type": "string",
+										"confidence": 0.947
+									}
+								},
+								"confidence": 0.379
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Retrieval By(M/C Operator)": {
+										"type": "string",
+										"valueString": "@28/07/21",
+										"content": "@28/07/21",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													5.1701,
+													7.0289,
+													6.2968,
+													7.058,
+													6.2891,
+													7.3555,
+													5.1624,
+													7.3264
+												]
+											}
+										],
+										"confidence": 0.523,
+										"spans": [
+											{
+												"offset": 903,
+												"length": 9
+											}
+										]
+									},
+									"Date of Retrieval": {
+										"type": "string",
+										"confidence": 0.947
+									},
+									"Qty": {
+										"type": "string",
+										"confidence": 0.947
+									},
+									"Packing Supervisor(Sign/Date)": {
+										"type": "string",
+										"confidence": 0.947
+									}
+								},
+								"confidence": 0.531
+							}
+						],
+						"confidence": 0.343
+					},
+					"STEREO DISPOSAL": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Date": {
+										"type": "string",
+										"valueString": "8/07/21",
+										"content": "8/07/21",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													0.712,
+													8.3424,
+													1.2951,
+													8.3132,
+													1.3072,
+													8.5544,
+													0.7241,
+													8.5836
+												]
+											}
+										],
+										"confidence": 0.519,
+										"spans": [
+											{
+												"offset": 1036,
+												"length": 7
+											}
+										]
+									},
+									"Qty": {
+										"type": "string",
+										"valueString": "27",
+										"content": "27",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													1.5504,
+													8.3239,
+													1.9062,
+													8.3221,
+													1.9072,
+													8.5195,
+													1.5514,
+													8.5213
+												]
+											}
+										],
+										"confidence": 0.741,
+										"spans": [
+											{
+												"offset": 1044,
+												"length": 2
+											}
+										]
+									},
+									"Disposal by": {
+										"type": "string",
+										"valueString": "CJP",
+										"content": "CJP",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													2.7242,
+													8.2594,
+													3.2188,
+													8.2353,
+													3.2291,
+													8.4467,
+													2.7345,
+													8.4708
+												]
+											}
+										],
+										"confidence": 0.737,
+										"spans": [
+											{
+												"offset": 1047,
+												"length": 3
+											}
+										]
+									},
+									"Checked by Packing Supervisor(Sign/Date)": {
+										"type": "string",
+										"valueString": "28/07/21",
+										"content": "28/07/21",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													4.0611,
+													8.1734,
+													4.8656,
+													8.1813,
+													4.8625,
+													8.4993,
+													4.058,
+													8.4914
+												]
+											}
+										],
+										"confidence": 0.705,
+										"spans": [
+											{
+												"offset": 1053,
+												"length": 8
+											}
+										]
+									},
+									"Verified by QA Supervisor(Sign/Date)": {
+										"type": "string",
+										"valueString": "(Recently",
+										"content": "(Recently",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													5.6658,
+													8.1058,
+													6.7172,
+													8.1175,
+													6.7115,
+													8.6294,
+													5.6601,
+													8.6177
+												]
+											}
+										],
+										"confidence": 0.083,
+										"spans": [
+											{
+												"offset": 1062,
+												"length": 9
+											}
+										]
+									}
+								},
+								"confidence": 0.101
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Checked by Packing Supervisor(Sign/Date)": {
+										"type": "string",
+										"valueString": "1/2",
+										"content": "1/2",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													4.3265,
+													8.7577,
+													4.8059,
+													8.7593,
+													4.8054,
+													8.9256,
+													4.326,
+													8.924
+												]
+											}
+										],
+										"confidence": 0.17,
+										"spans": [
+											{
+												"offset": 1072,
+												"length": 3
+											}
+										]
+									},
+									"Verified by QA Supervisor(Sign/Date)": {
+										"type": "string",
+										"valueString": "@28/07/21",
+										"content": "@28/07/21",
+										"boundingRegions": [
+											{
+												"pageNumber": 4,
+												"polygon": [
+													6.7809,
+													8.5966,
+													7.7575,
+													8.6778,
+													7.733,
+													8.9724,
+													6.7564,
+													8.8912
+												]
+											}
+										],
+										"confidence": 0.508,
+										"spans": [
+											{
+												"offset": 1076,
+												"length": 9
+											}
+										]
+									},
+									"Date": {
+										"type": "string",
+										"confidence": 0.942
+									},
+									"Qty": {
+										"type": "string",
+										"confidence": 0.929
+									},
+									"Disposal by": {
+										"type": "string",
+										"confidence": 0.941
+									}
+								},
+								"confidence": 0.132
+							}
+						],
+						"confidence": 0.109
+					},
+					"LINE CLEARANCE DETAILS FOR STRIP MACHINE": {
+						"type": "array",
+						"confidence": 0.948
+					},
+					"OVER CODING DETAILS (Verified with P.O./MMD-I/CMOF)": {
+						"type": "array",
+						"confidence": 0.919
+					},
+					"DETAILS OF BULK ISSUENCE OF TABLETS": {
+						"type": "array",
+						"confidence": 0.945
+					},
+					"SUPERSEDES NO": {
+						"type": "string",
+						"confidence": 0.874
+					},
+					"GENERIC NAME": {
+						"type": "string",
+						"confidence": 0.931
+					},
+					"MARKETING DIVISION": {
+						"type": "string",
+						"confidence": 0.933
+					},
+					"MFG LICENSE NO": {
+						"type": "string",
+						"confidence": 0.891
+					},
+					"REF MMD II": {
+						"type": "string",
+						"confidence": 0.938
+					},
+					"DOCUMENT": {
+						"type": "string",
+						"confidence": 0.938
+					},
+					"Packing For DOMESTIC": {
+						"type": "string",
+						"confidence": 0.939
+					},
+					"BATCH SIZE": {
+						"type": "string",
+						"confidence": 0.937
+					}
+				},
+				"confidence": 0.999,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1216
+					}
+				]
+			}
+		],
+		"contentFormat": "text",
+		"sections": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 98
+					},
+					{
+						"offset": 112,
+						"length": 790
+					},
+					{
+						"offset": 913,
+						"length": 2
+					},
+					{
+						"offset": 903,
+						"length": 9
+					},
+					{
+						"offset": 916,
+						"length": 252
+					},
+					{
+						"offset": 1193,
+						"length": 23
+					}
+				],
+				"elements": [
+					"/sections/1",
+					"/sections/2"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 98
+					},
+					{
+						"offset": 112,
+						"length": 116
+					}
+				],
+				"elements": [
+					"/figures/0",
+					"/paragraphs/1",
+					"/paragraphs/2",
+					"/tables/0"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 229,
+						"length": 673
+					},
+					{
+						"offset": 913,
+						"length": 2
+					},
+					{
+						"offset": 903,
+						"length": 9
+					},
+					{
+						"offset": 916,
+						"length": 252
+					},
+					{
+						"offset": 1193,
+						"length": 23
+					}
+				],
+				"elements": [
+					"/paragraphs/11",
+					"/paragraphs/12",
+					"/paragraphs/13",
+					"/sections/3",
+					"/sections/4",
+					"/sections/5"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 352,
+						"length": 275
+					}
+				],
+				"elements": [
+					"/paragraphs/14",
+					"/tables/1"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 628,
+						"length": 274
+					},
+					{
+						"offset": 913,
+						"length": 2
+					},
+					{
+						"offset": 903,
+						"length": 9
+					}
+				],
+				"elements": [
+					"/paragraphs/35",
+					"/tables/2"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 916,
+						"length": 252
+					},
+					{
+						"offset": 1193,
+						"length": 23
+					}
+				],
+				"elements": [
+					"/paragraphs/54",
+					"/tables/3",
+					"/paragraphs/67",
+					"/paragraphs/68",
+					"/paragraphs/69",
+					"/paragraphs/70",
+					"/paragraphs/71",
+					"/paragraphs/72",
+					"/paragraphs/73",
+					"/paragraphs/74",
+					"/paragraphs/76"
+				]
+			}
+		],
+		"figures": [
+			{
+				"id": "4.1",
+				"boundingRegions": [
+					{
+						"pageNumber": 4,
+						"polygon": [
+							0.7961,
+							0.5635,
+							1.6936,
+							0.5635,
+							1.6935,
+							0.921,
+							0.7959,
+							0.9211
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 30
+					}
+				],
+				"elements": [
+					"/paragraphs/0"
+				]
+			}
+		]
+	}
+}

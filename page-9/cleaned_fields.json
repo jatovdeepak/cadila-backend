@@ -1,0 +1,136 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "PRODUCT NAME": "ACILOC 300",
+    "COMPANY NAME": "CADILA PHARMACEUTICALS LIMITED",
+    "MFG DATE": "JUL 2021",
+    "BATCH NO": "LO21076",
+    "EXP DATE": "DEC 2023",
+    "DOCUMENT": "CADILA PHARMACEUTICALS LTD. DHOLKA BATCH PACKING RECORD",
+    "BATCH SIZE": "2250000",
+    "OVER CODING DETAILS Expiry Date": "30 months",
+    "MASTER PACKAGING DOCKET DETAILS": [],
+    "BATCH PACKING RECORD DETAILS": [],
+    "BATCH PACKING DETAILS": [],
+    "BATCH DETAILS": [],
+    "PACKAGING MATERIALS": [],
+    "BRIEF PACKAGING INSTRUCTION": [],
+    "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING": [],
+    "STEREO ISSUENCE": [],
+    "STEREO RETRIEVAL": [],
+    "STEREO DISPOSAL": [],
+    "LINE CLEARANCE DETAILS FOR STRIP MACHINE": [],
+    "OVER CODING DETAILS (Verified with P.O./MMD-I/CMOF)": [
+      {
+        "CODING DETAILS": "B. No.",
+        "INPUT DATA": "1021076",
+        "Done By (Operator)": "B ( Pates",
+        "Checked By (Packing Supervisor)": "Parth",
+        "Verified By (QA)": "Javed"
+      },
+      {
+        "CODING DETAILS": "Mfg.",
+        "INPUT DATA": "JUL 2021",
+        "Done By (Operator)": "BG Patel",
+        "Checked By (Packing Supervisor)": "Parth",
+        "Verified By (QA)": "Jareal"
+      },
+      {
+        "CODING DETAILS": "Exp.",
+        "INPUT DATA": "DEC. 2023",
+        "Done By (Operator)": "Ban Patel",
+        "Checked By (Packing Supervisor)": "purtle",
+        "Verified By (QA)": "Javed"
+      },
+      {
+        "CODING DETAILS": "M.R.P. Rs.",
+        "INPUT DATA": "41.60/207",
+        "Done By (Operator)": "13 en patel",
+        "Checked By (Packing Supervisor)": "Partu",
+        "Verified By (QA)": "Juweel"
+      },
+      {
+        "CODING DETAILS": "Sign/Date",
+        "Done By (Operator)": "20117121",
+        "Checked By (Packing Supervisor)": "26107121",
+        "Verified By (QA)": "2",
+        "INPUT DATA": ""
+      }
+    ],
+    "DETAILS OF BULK ISSUENCE OF TABLETS": [
+      {
+        "Date/Shift": "0/07/21\n2",
+        "P.O. No": "10000197054",
+        "P.O. Qty": "2250000",
+        "Received Qty (kg)": "597.405",
+        "Received Qty (Nos)": "NA",
+        "Container Nos": "24",
+        "Issued by": "26/07/21",
+        "Received by": "20107121",
+        "Verified by": "JA/9"
+      },
+      {
+        "Date/Shift": "9/7/21\n2",
+        "P.O. No": "10000197054",
+        "P.O. Qty": "2250000",
+        "Received Qty (kg)": "299.09",
+        "Received Qty (Nos)": "N/A",
+        "Container Nos": "12",
+        "Issued by": "27/07/2",
+        "Received by": "@x+107/20",
+        "Verified by": ""
+      },
+      {
+        "Date/Shift": "07/21\n27",
+        "P.O. No": "Total",
+        "P.O. Qty": "1",
+        "Received Qty (kg)": "896.495",
+        "Received Qty (Nos)": "2222898",
+        "Container Nos": "36",
+        "Issued by": "27/07/2",
+        "Received by": "@22107/2/",
+        "Verified by": ""
+      },
+      {
+        "Issued by": "1/A",
+        "Verified by": "@28/07/2",
+        "Date/Shift": "",
+        "P.O. No": "",
+        "P.O. Qty": "",
+        "Received Qty (kg)": "",
+        "Received Qty (Nos)": "",
+        "Container Nos": "",
+        "Received by": ""
+      }
+    ],
+    "DEFOILING DETAILS": [],
+    "SHIFT WISE STRIPING IN PROCESS CHECKING RECORD": [],
+    "CHECK LIST FOR STRIP MACHINE & CUBICLE": [],
+    "STRIP PACK MACHINE": [],
+    "CHANGE PARTS DETAILS AND LAYOUT NUMBER": [],
+    "VERIFICATION OF PRINTED PACKAGING MATERIAL": [
+      {
+        "Item": "Printed Alu. Foil",
+        "Material Code As per MMD-II": "PW8378",
+        "Material Code Actual": "PW8378",
+        "Checked By Packing": "920107121",
+        "Remark": "atc",
+        "Checked By QA": ""
+      }
+    ],
+    "LIST OF ABBREVIATIONS": [],
+    "SPECIFIC REQUIREMENT": [
+      {
+        "Packing For DOMESTIC": "Magtam",
+        "Checked By/Date (Packing)": "926107121",
+        "Verified By/Date (QA)": "02/1/07/4"
+      }
+    ],
+    "SUPERSEDES NO": "",
+    "GENERIC NAME": "",
+    "MARKETING DIVISION": "",
+    "MFG LICENSE NO": "",
+    "REF MMD II": "",
+    "Packing For DOMESTIC": ""
+  }
+}

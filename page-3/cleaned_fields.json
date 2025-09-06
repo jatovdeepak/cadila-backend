@@ -1,0 +1,201 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "PRODUCT NAME": "ACILOC 300",
+    "COMPANY NAME": "CADILA PHARMACEUTICALS LIMITED",
+    "MFG DATE": "JUL 2021",
+    "BATCH NO": "LO21076",
+    "EXP DATE": "DEC 2023",
+    "DOCUMENT": "CADILA PHARMACEUTICALS LTD. DHOLKA BATCH PACKING RECORD",
+    "MASTER PACKAGING DOCKET DETAILS": [],
+    "BATCH PACKING RECORD DETAILS": [],
+    "BATCH PACKING DETAILS": [],
+    "BATCH DETAILS": [],
+    "PACKAGING MATERIALS": [],
+    "BRIEF PACKAGING INSTRUCTION": [],
+    "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING": [],
+    "STEREO ISSUENCE": [],
+    "STEREO RETRIEVAL": [],
+    "STEREO DISPOSAL": [],
+    "LINE CLEARANCE DETAILS FOR STRIP MACHINE": [],
+    "OVER CODING DETAILS (Verified with P.O./MMD-I/CMOF)": [],
+    "DETAILS OF BULK ISSUENCE OF TABLETS": [],
+    "DEFOILING DETAILS": [],
+    "SHIFT WISE STRIPING IN PROCESS CHECKING RECORD": [],
+    "CHECK LIST FOR STRIP MACHINE & CUBICLE": [],
+    "STRIP PACK MACHINE": [],
+    "CHANGE PARTS DETAILS AND LAYOUT NUMBER": [],
+    "VERIFICATION OF PRINTED PACKAGING MATERIAL": [],
+    "LIST OF ABBREVIATIONS": [
+      {
+        "Abbreviations": "BPR",
+        "Expanded Forms": "Batch Packing Record"
+      },
+      {
+        "Abbreviations": "HDPE",
+        "Expanded Forms": "High Density Polyethylene"
+      },
+      {
+        "Abbreviations": "BMR",
+        "Expanded Forms": "Batch Manufacturing Record"
+      },
+      {
+        "Abbreviations": "M/C",
+        "Expanded Forms": "Machine"
+      },
+      {
+        "Abbreviations": "QA",
+        "Expanded Forms": "Quality Assurance"
+      },
+      {
+        "Abbreviations": "FBB",
+        "Expanded Forms": "Folded Board Box"
+      },
+      {
+        "Abbreviations": "WIP",
+        "Expanded Forms": "Work In Process"
+      },
+      {
+        "Abbreviations": "Mfg.",
+        "Expanded Forms": "Manufacturing"
+      },
+      {
+        "Abbreviations": "SOP",
+        "Expanded Forms": "Standard Operating Procedure"
+      },
+      {
+        "Abbreviations": "EXP.",
+        "Expanded Forms": "Expiry"
+      },
+      {
+        "Abbreviations": "P.O.",
+        "Expanded Forms": "Process Order"
+      },
+      {
+        "Abbreviations": "M.R.P.",
+        "Expanded Forms": "Maximum retail price"
+      },
+      {
+        "Abbreviations": "SAP",
+        "Expanded Forms": "System, Application, Products and Data Processing"
+      },
+      {
+        "Abbreviations": "kg",
+        "Expanded Forms": "Kilogram"
+      },
+      {
+        "Abbreviations": "MMD",
+        "Expanded Forms": "Master Manufacturing Docket"
+      },
+      {
+        "Abbreviations": "Temp.",
+        "Expanded Forms": "Temperature"
+      },
+      {
+        "Abbreviations": "Prod.",
+        "Expanded Forms": "Production"
+      },
+      {
+        "Abbreviations": "BOPP",
+        "Expanded Forms": "Biaxial Oriented Poly Propylene"
+      },
+      {
+        "Abbreviations": "B.S.R.",
+        "Expanded Forms": "Bonded Storage Room"
+      },
+      {
+        "Abbreviations": "gsm",
+        "Expanded Forms": "Gram per square meter"
+      },
+      {
+        "Abbreviations": "A.R. No.",
+        "Expanded Forms": "Analytical Report Number"
+      },
+      {
+        "Abbreviations": "mm",
+        "Expanded Forms": "Millimeter"
+      },
+      {
+        "Abbreviations": "NMT",
+        "Expanded Forms": "Not More Than"
+      },
+      {
+        "Abbreviations": "QC",
+        "Expanded Forms": "Quality Control"
+      },
+      {
+        "Expanded Forms": "Empty Pocket Detector",
+        "Abbreviations": ""
+      },
+      {
+        "Abbreviations": "EPD\nLSH",
+        "Expanded Forms": "Left Side Heater"
+      },
+      {
+        "Abbreviations": "No.",
+        "Expanded Forms": "Number"
+      },
+      {
+        "Abbreviations": "RSH",
+        "Expanded Forms": "Right Side Heater"
+      },
+      {
+        "Abbreviations": "L",
+        "Expanded Forms": "Length"
+      },
+      {
+        "Abbreviations": "ID.",
+        "Expanded Forms": "Identification"
+      },
+      {
+        "Abbreviations": "H",
+        "Expanded Forms": "Height"
+      },
+      {
+        "Abbreviations": "Qty.",
+        "Expanded Forms": "Quantity"
+      },
+      {
+        "Abbreviations": "TTD",
+        "Expanded Forms": "Technology Transfer &"
+      },
+      {
+        "Abbreviations": "W",
+        "Expanded Forms": "Documentation\nWidth"
+      },
+      {
+        "Abbreviations": "Mfg. Lic. No.",
+        "Expanded Forms": "Manufacturing License Number"
+      },
+      {
+        "Abbreviations": "Alu./A1",
+        "Expanded Forms": "Aluminium"
+      },
+      {
+        "Abbreviations": "CFB",
+        "Expanded Forms": "Corrugated Folded Box"
+      },
+      {
+        "Abbreviations": "UOM",
+        "Expanded Forms": "Unit of Measurement"
+      },
+      {
+        "Abbreviations": "Std.",
+        "Expanded Forms": "Standard"
+      },
+      {
+        "Abbreviations": "Spec.",
+        "Expanded Forms": "Specification"
+      }
+    ],
+    "SPECIFIC REQUIREMENT": [],
+    "SUPERSEDES NO": "",
+    "GENERIC NAME": "",
+    "MARKETING DIVISION": "",
+    "MFG LICENSE NO": "",
+    "REF MMD II": "",
+    "Packing For DOMESTIC": "",
+    "BATCH SIZE": "",
+    "OVER CODING DETAILS Expiry Date": ""
+  }
+}

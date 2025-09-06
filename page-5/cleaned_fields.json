@@ -1,0 +1,56 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "PRODUCT NAME": "ACILOC 300",
+    "COMPANY NAME": "CADILA PHARMACEUTICALS LTD. DHOLKA",
+    "MFG DATE": "JUL 2021",
+    "BATCH NO": "LO21076",
+    "EXP DATE": "DEC 2023",
+    "REF MMD II": "DDT303/MF/01-00",
+    "MASTER PACKAGING DOCKET DETAILS": [],
+    "BATCH PACKING RECORD DETAILS": [],
+    "BATCH PACKING DETAILS": [],
+    "BATCH DETAILS": [],
+    "PACKAGING MATERIALS": [
+      {
+        "SR NO": "1.",
+        "MATERIAL & SPEC": "226 x 0.04 mm Printed Alu. foil",
+        "MATERIAL CODE": "PW8378",
+        "STD QTY FOR 2250000 TABLETS": "228",
+        "UOM": "kg",
+        "RECEIVED QUANTITY FOR 2200000 TABLETS BATCH SIZE": "242.600",
+        "A R NO": "PMIDAllel 2107167",
+        "CHECKED BY PACKING": "26107121",
+        "VERIFIED BY QA": "26/07/4",
+        "PACK": ""
+      },
+      {
+        "PACK": "PRIMARY\nPACK",
+        "SR NO": "2.",
+        "MATERIAL & SPEC": "226 x 0.04 mm Plain Al. Foil",
+        "MATERIAL CODE": "PE350",
+        "STD QTY FOR 2250000 TABLETS": "228",
+        "UOM": "kg",
+        "RECEIVED QUANTITY FOR 2200000 TABLETS BATCH SIZE": "238.750",
+        "A R NO": "PMIDHULL 2107165",
+        "CHECKED BY PACKING": "Re107121",
+        "VERIFIED BY QA": "20/07/2"
+      }
+    ],
+    "BRIEF PACKAGING INSTRUCTION": [],
+    "LIST OF EQUIPMENTS WITH SOP OF CLEANING & OPERATING": [],
+    "STEREO ISSUENCE": [],
+    "STEREO RETRIEVAL": [],
+    "STEREO DISPOSAL": [],
+    "LINE CLEARANCE DETAILS FOR STRIP MACHINE": [],
+    "OVER CODING DETAILS (Verified with P.O./MMD-I/CMOF)": [],
+    "DETAILS OF BULK ISSUENCE OF TABLETS": [],
+    "SUPERSEDES NO": "",
+    "GENERIC NAME": "",
+    "MARKETING DIVISION": "",
+    "MFG LICENSE NO": "",
+    "DOCUMENT": "",
+    "Packing For DOMESTIC": "",
+    "BATCH SIZE": ""
+  }
+}

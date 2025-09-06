@@ -1,0 +1,50 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "SUPERSEDES NO": "NIL",
+    "PRODUCT NAME": "ACILOC 300",
+    "GENERIC NAME": "RANITIDINE TABLETS IP , 300 mg",
+    "MARKETING DIVISION": "DOMESTIC (MAGFAM)",
+    "MFG LICENSE NO": "G/1500",
+    "COMPANY NAME": "CADILA PHARMACEUTICALS LIMITED",
+    "MASTER PACKAGING DOCKET DETAILS": [
+      {
+        "PRODUCT NAME": "ACILOC 300",
+        "PRODUCT CODE": "DT303",
+        "MASTER REFERENCE NO": "DDT303/MF/01-00",
+        "STANDARD BATCH SIZE": "2250000 TABLETS",
+        "EXPIRY PERIOD": "30 MONTHS"
+      }
+    ],
+    "BATCH PACKING RECORD DETAILS": [
+      {
+        "REASON FOR REVISION": "NEW BPR",
+        "CHANGE CONTROL NO": "P/CC/FD/DOM/002/21",
+        "EFFECTIVE DATE": "0 3 MAR 2021"
+      }
+    ],
+    "BATCH PACKING DETAILS": [
+      {
+        "PACK STYLE": "20'S TABS / STRIP",
+        "COUNTRY": "MAGFAM",
+        "PROCESS ORDER NO": "10000197054",
+        "COMMENCEMENT DATE": "26/07/21",
+        "COMPLETION DATE": "28/07/21"
+      }
+    ],
+    "BATCH DETAILS": [
+      {
+        "BATCH NO": "LO21076",
+        "BPR ISSUED BY/DATE(QA)": "MAHI\n10/07/2021",
+        "BATCH SIZE": "2250000",
+        "MFG DATE": "JULY 2021",
+        "EXP DATE": "DECEMBER 2023"
+      }
+    ],
+    "PACKAGING MATERIALS": [],
+    "MFG DATE": "",
+    "BATCH NO": "",
+    "EXP DATE": "",
+    "REF MMD II": ""
+  }
+}

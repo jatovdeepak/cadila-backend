@@ -1,0 +1,75 @@
+{
+  "fields": {
+    "BPR NO": "CP/DDDT303/MF/01/00/D",
+    "SUPERSEDES NO": "NIL",
+    "PRODUCT NAME": "ACILOC 300",
+    "GENERIC NAME": "RANITIDINE TABLETS IP , 300 mg",
+    "MARKETING DIVISION": "DOMESTIC (MAGFAM)",
+    "MFG LICENSE NO": "G/1500",
+    "COMPANY NAME": "CADILA PHARMACEUTICALS LIMITED",
+    "MFG DATE": "JUL 2021",
+    "BATCH NO": "LO21076",
+    "EXP DATE": "DEC 2023",
+    "REF MMD II": "DDT303/MF/01-00",
+    "MASTER PACKAGING DOCKET DETAILS": [
+      {
+        "PRODUCT NAME": "ACILOC 300",
+        "PRODUCT CODE": "DT303",
+        "MASTER REFERENCE NO": "DDT303/MF/01-00",
+        "STANDARD BATCH SIZE": "2250000 TABLETS",
+        "EXPIRY PERIOD": "30 MONTHS"
+      }
+    ],
+    "BATCH PACKING RECORD DETAILS": [
+      {
+        "REASON FOR REVISION": "NEW BPR",
+        "CHANGE CONTROL NO": "P/CC/FD/DOM/002/21",
+        "EFFECTIVE DATE": "0 3 MAR 2021"
+      }
+    ],
+    "BATCH PACKING DETAILS": [
+      {
+        "PACK STYLE": "20'S TABS / STRIP",
+        "COUNTRY": "MAGFAM",
+        "PROCESS ORDER NO": "10000197054",
+        "COMMENCEMENT DATE": "26/07/21",
+        "COMPLETION DATE": "28/07/21"
+      }
+    ],
+    "BATCH DETAILS": [
+      {
+        "BATCH NO": "LO21076",
+        "BPR ISSUED BY/DATE(QA)": "MAHI",
+        "BATCH SIZE": "10/07/2021\n2250000",
+        "MFG DATE": "JULY 2021",
+        "EXP DATE": "DECEMBER 2023"
+      }
+    ],
+    "PACKAGING MATERIALS": [
+      {
+        "SR NO": "1.",
+        "MATERIAL & SPEC": "226 x 0.04 mm Printed Alu. foil",
+        "MATERIAL CODE": "PW8378",
+        "STD QTY FOR 2250000 TABLETS": "228",
+        "UOM": "kg",
+        "RECEIVED QUANTITY FOR 2200000 TABLETS BATCH SIZE": "242.600",
+        "A R NO": "PMIDAllel 2107167",
+        "CHECKED BY PACKING": "26107121",
+        "VERIFIED BY QA": "26/07/4",
+        "PACK": ""
+      },
+      {
+        "PACK": "PRIMARY\nPACK",
+        "SR NO": "2.",
+        "MATERIAL & SPEC": "226 x 0.04 mm Plain Al. Foil",
+        "MATERIAL CODE": "PE350",
+        "STD QTY FOR 2250000 TABLETS": "228",
+        "UOM": "kg",
+        "RECEIVED QUANTITY FOR 2200000 TABLETS BATCH SIZE": "238.750",
+        "A R NO": "PMIDHULL 2107165",
+        "CHECKED BY PACKING": "Re107121",
+        "VERIFIED BY QA": "20/07/2"
+      }
+    ]
+  }
+}
